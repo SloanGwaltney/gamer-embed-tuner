@@ -1,0 +1,7 @@
+__pycache__/
+gamer_vector_db/
+venv/
+models/
+frontend/node_modules/
+frontend/dist/
+checkpoints

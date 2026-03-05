@@ -1,0 +1,4082 @@
+[
+  {
+    "jargon": "buff",
+    "layman": "temporary power increase"
+  },
+  {
+    "jargon": "buff",
+    "layman": "short-term strength boost"
+  },
+  {
+    "jargon": "buff",
+    "layman": "makes a character stronger for a while"
+  },
+  {
+    "jargon": "buff",
+    "layman": "adds extra ability power"
+  },
+  {
+    "jargon": "buff",
+    "layman": "improves stats temporarily"
+  },
+  {
+    "jargon": "buff",
+    "layman": "gives a performance boost"
+  },
+  {
+    "jargon": "buff",
+    "layman": "applies a helpful effect"
+  },
+  {
+    "jargon": "buff",
+    "layman": "enhances abilities briefly"
+  },
+  {
+    "jargon": "buff",
+    "layman": "provides a positive bonus"
+  },
+  {
+    "jargon": "buff",
+    "layman": "raises effectiveness for a limited time"
+  },
+  {
+    "jargon": "debuff",
+    "layman": "temporary weakness effect"
+  },
+  {
+    "jargon": "debuff",
+    "layman": "reduces a character's power"
+  },
+  {
+    "jargon": "debuff",
+    "layman": "applies a harmful status"
+  },
+  {
+    "jargon": "debuff",
+    "layman": "lowers stats for a short time"
+  },
+  {
+    "jargon": "debuff",
+    "layman": "creates a disadvantage"
+  },
+  {
+    "jargon": "debuff",
+    "layman": "weakens performance temporarily"
+  },
+  {
+    "jargon": "debuff",
+    "layman": "adds a negative condition"
+  },
+  {
+    "jargon": "debuff",
+    "layman": "limits ability effectiveness"
+  },
+  {
+    "jargon": "debuff",
+    "layman": "causes reduced combat ability"
+  },
+  {
+    "jargon": "debuff",
+    "layman": "inflicts a penalty effect"
+  },
+  {
+    "jargon": "aggro",
+    "layman": "enemy attention focused on you"
+  },
+  {
+    "jargon": "aggro",
+    "layman": "being targeted by opponents"
+  },
+  {
+    "jargon": "aggro",
+    "layman": "drawing enemy attacks"
+  },
+  {
+    "jargon": "aggro",
+    "layman": "holding monster focus"
+  },
+  {
+    "jargon": "aggro",
+    "layman": "provoking enemies to attack"
+  },
+  {
+    "jargon": "aggro",
+    "layman": "managing threat level"
+  },
+  {
+    "jargon": "aggro",
+    "layman": "causing enemies to prioritize you"
+  },
+  {
+    "jargon": "aggro",
+    "layman": "taking enemy focus"
+  },
+  {
+    "jargon": "aggro",
+    "layman": "triggering hostile attention"
+  },
+  {
+    "jargon": "aggro",
+    "layman": "maintaining enemy targeting"
+  },
+  {
+    "jargon": "AoE",
+    "layman": "affects multiple targets at once"
+  },
+  {
+    "jargon": "AoE",
+    "layman": "area-based attack"
+  },
+  {
+    "jargon": "AoE",
+    "layman": "hits everyone nearby"
+  },
+  {
+    "jargon": "AoE",
+    "layman": "wide range damage"
+  },
+  {
+    "jargon": "AoE",
+    "layman": "group-target ability"
+  },
+  {
+    "jargon": "AoE",
+    "layman": "attack covering a zone"
+  },
+  {
+    "jargon": "AoE",
+    "layman": "damage spread over an area"
+  },
+  {
+    "jargon": "AoE",
+    "layman": "multi-enemy strike"
+  },
+  {
+    "jargon": "AoE",
+    "layman": "explosive area effect"
+  },
+  {
+    "jargon": "AoE",
+    "layman": "affects all enemies in range"
+  },
+  {
+    "jargon": "kiting",
+    "layman": "attacking while staying at a distance"
+  },
+  {
+    "jargon": "kiting",
+    "layman": "hit-and-run fighting style"
+  },
+  {
+    "jargon": "kiting",
+    "layman": "luring enemies while retreating"
+  },
+  {
+    "jargon": "kiting",
+    "layman": "avoiding close combat while attacking"
+  },
+  {
+    "jargon": "kiting",
+    "layman": "keeping space from opponents"
+  },
+  {
+    "jargon": "kiting",
+    "layman": "moving away as you deal damage"
+  },
+  {
+    "jargon": "kiting",
+    "layman": "wearing down enemies safely"
+  },
+  {
+    "jargon": "kiting",
+    "layman": "maintaining distance during combat"
+  },
+  {
+    "jargon": "kiting",
+    "layman": "baiting enemies while escaping"
+  },
+  {
+    "jargon": "kiting",
+    "layman": "ranged harassment tactic"
+  },
+  {
+    "jargon": "DPS",
+    "layman": "damage dealt per second"
+  },
+  {
+    "jargon": "DPS",
+    "layman": "rate of attack output"
+  },
+  {
+    "jargon": "DPS",
+    "layman": "offensive damage role"
+  },
+  {
+    "jargon": "DPS",
+    "layman": "primary damage dealer"
+  },
+  {
+    "jargon": "DPS",
+    "layman": "measure of combat damage speed"
+  },
+  {
+    "jargon": "DPS",
+    "layman": "focuses on dealing damage"
+  },
+  {
+    "jargon": "DPS",
+    "layman": "high attack output character"
+  },
+  {
+    "jargon": "DPS",
+    "layman": "offense-specialized player"
+  },
+  {
+    "jargon": "DPS",
+    "layman": "damage performance metric"
+  },
+  {
+    "jargon": "DPS",
+    "layman": "combat damage efficiency"
+  },
+  {
+    "jargon": "tank",
+    "layman": "character that absorbs damage"
+  },
+  {
+    "jargon": "tank",
+    "layman": "frontline defender"
+  },
+  {
+    "jargon": "tank",
+    "layman": "protects teammates by taking hits"
+  },
+  {
+    "jargon": "tank",
+    "layman": "high durability role"
+  },
+  {
+    "jargon": "tank",
+    "layman": "soaks up enemy attacks"
+  },
+  {
+    "jargon": "tank",
+    "layman": "holds enemy attention safely"
+  },
+  {
+    "jargon": "tank",
+    "layman": "damage-absorbing character"
+  },
+  {
+    "jargon": "tank",
+    "layman": "defensive team role"
+  },
+  {
+    "jargon": "tank",
+    "layman": "shield for the group"
+  },
+  {
+    "jargon": "tank",
+    "layman": "stands in front to block damage"
+  },
+  {
+    "jargon": "healer",
+    "layman": "restores teammates' health"
+  },
+  {
+    "jargon": "healer",
+    "layman": "support role focused on recovery"
+  },
+  {
+    "jargon": "healer",
+    "layman": "keeps team alive"
+  },
+  {
+    "jargon": "healer",
+    "layman": "repairs damage taken"
+  },
+  {
+    "jargon": "healer",
+    "layman": "provides health regeneration"
+  },
+  {
+    "jargon": "healer",
+    "layman": "casts recovery abilities"
+  },
+  {
+    "jargon": "healer",
+    "layman": "mends wounds in battle"
+  },
+  {
+    "jargon": "healer",
+    "layman": "supports with healing powers"
+  },
+  {
+    "jargon": "healer",
+    "layman": "refills health bars"
+  },
+  {
+    "jargon": "healer",
+    "layman": "sustains team survival"
+  },
+  {
+    "jargon": "cooldown",
+    "layman": "waiting period before reuse"
+  },
+  {
+    "jargon": "cooldown",
+    "layman": "time until ability is ready again"
+  },
+  {
+    "jargon": "cooldown",
+    "layman": "skill recharge timer"
+  },
+  {
+    "jargon": "cooldown",
+    "layman": "mandatory delay between uses"
+  },
+  {
+    "jargon": "cooldown",
+    "layman": "temporary skill lockout"
+  },
+  {
+    "jargon": "cooldown",
+    "layman": "ability reset time"
+  },
+  {
+    "jargon": "cooldown",
+    "layman": "pause before next activation"
+  },
+  {
+    "jargon": "cooldown",
+    "layman": "recovery time for skill"
+  },
+  {
+    "jargon": "cooldown",
+    "layman": "usage delay timer"
+  },
+  {
+    "jargon": "cooldown",
+    "layman": "time-based restriction on abilities"
+  },
+  {
+    "jargon": "nerf",
+    "layman": "made less powerful by update"
+  },
+  {
+    "jargon": "nerf",
+    "layman": "reduced effectiveness"
+  },
+  {
+    "jargon": "nerf",
+    "layman": "weakened for balance"
+  },
+  {
+    "jargon": "nerf",
+    "layman": "power decrease applied"
+  },
+  {
+    "jargon": "nerf",
+    "layman": "downgraded stats"
+  },
+  {
+    "jargon": "nerf",
+    "layman": "less impactful after patch"
+  },
+  {
+    "jargon": "nerf",
+    "layman": "performance reduction by developers"
+  },
+  {
+    "jargon": "nerf",
+    "layman": "ability toned down"
+  },
+  {
+    "jargon": "nerf",
+    "layman": "strength lowered intentionally"
+  },
+  {
+    "jargon": "nerf",
+    "layman": "balance-driven reduction"
+  },
+  {
+    "jargon": "grind",
+    "layman": "repeat tasks to gain progress"
+  },
+  {
+    "jargon": "grind",
+    "layman": "do the same activity for rewards"
+  },
+  {
+    "jargon": "grind",
+    "layman": "slow repetitive leveling"
+  },
+  {
+    "jargon": "grind",
+    "layman": "farm experience points"
+  },
+  {
+    "jargon": "grind",
+    "layman": "earn resources through repetition"
+  },
+  {
+    "jargon": "grind",
+    "layman": "time-consuming progress work"
+  },
+  {
+    "jargon": "grind",
+    "layman": "repeatedly complete missions"
+  },
+  {
+    "jargon": "grind",
+    "layman": "steady incremental improvement"
+  },
+  {
+    "jargon": "grind",
+    "layman": "resource farming activity"
+  },
+  {
+    "jargon": "grind",
+    "layman": "long repetitive gameplay session"
+  },
+  {
+    "jargon": "loot",
+    "layman": "items earned from enemies"
+  },
+  {
+    "jargon": "loot",
+    "layman": "rewards collected after battle"
+  },
+  {
+    "jargon": "loot",
+    "layman": "gear dropped by opponents"
+  },
+  {
+    "jargon": "loot",
+    "layman": "treasure obtained"
+  },
+  {
+    "jargon": "loot",
+    "layman": "in-game item rewards"
+  },
+  {
+    "jargon": "loot",
+    "layman": "collectible battle spoils"
+  },
+  {
+    "jargon": "loot",
+    "layman": "equipment picked up"
+  },
+  {
+    "jargon": "loot",
+    "layman": "valuable drops"
+  },
+  {
+    "jargon": "loot",
+    "layman": "acquired in-game goods"
+  },
+  {
+    "jargon": "loot",
+    "layman": "prizes gained from combat"
+  },
+  {
+    "jargon": "spawn",
+    "layman": "appear in the game world"
+  },
+  {
+    "jargon": "spawn",
+    "layman": "enter the map"
+  },
+  {
+    "jargon": "spawn",
+    "layman": "be created in-game"
+  },
+  {
+    "jargon": "spawn",
+    "layman": "respawn after defeat"
+  },
+  {
+    "jargon": "spawn",
+    "layman": "start at a location"
+  },
+  {
+    "jargon": "spawn",
+    "layman": "materialize in play area"
+  },
+  {
+    "jargon": "spawn",
+    "layman": "generate at a set point"
+  },
+  {
+    "jargon": "spawn",
+    "layman": "reappear after death"
+  },
+  {
+    "jargon": "spawn",
+    "layman": "begin from a fixed position"
+  },
+  {
+    "jargon": "spawn",
+    "layman": "pop into the game world"
+  },
+  {
+    "jargon": "camping",
+    "layman": "waiting in one spot for enemies"
+  },
+  {
+    "jargon": "camping",
+    "layman": "staying in a strategic position"
+  },
+  {
+    "jargon": "camping",
+    "layman": "holding one location"
+  },
+  {
+    "jargon": "camping",
+    "layman": "ambushing from a fixed area"
+  },
+  {
+    "jargon": "camping",
+    "layman": "not moving to gain advantage"
+  },
+  {
+    "jargon": "camping",
+    "layman": "guarding a spawn point"
+  },
+  {
+    "jargon": "camping",
+    "layman": "defending a single area"
+  },
+  {
+    "jargon": "camping",
+    "layman": "remaining hidden in one place"
+  },
+  {
+    "jargon": "camping",
+    "layman": "waiting to surprise opponents"
+  },
+  {
+    "jargon": "camping",
+    "layman": "static defensive positioning"
+  },
+  {
+    "jargon": "meta",
+    "layman": "most effective current strategy"
+  },
+  {
+    "jargon": "meta",
+    "layman": "popular competitive setup"
+  },
+  {
+    "jargon": "meta",
+    "layman": "strongest known tactics"
+  },
+  {
+    "jargon": "meta",
+    "layman": "current best strategy trend"
+  },
+  {
+    "jargon": "meta",
+    "layman": "widely accepted optimal playstyle"
+  },
+  {
+    "jargon": "meta",
+    "layman": "competitive standard approach"
+  },
+  {
+    "jargon": "meta",
+    "layman": "dominant game strategy"
+  },
+  {
+    "jargon": "meta",
+    "layman": "favored high-performance build"
+  },
+  {
+    "jargon": "meta",
+    "layman": "common top-tier tactic"
+  },
+  {
+    "jargon": "meta",
+    "layman": "community-approved optimal strategy"
+  },
+  {
+    "jargon": "patch",
+    "layman": "game update"
+  },
+  {
+    "jargon": "patch",
+    "layman": "software fix release"
+  },
+  {
+    "jargon": "patch",
+    "layman": "balance update"
+  },
+  {
+    "jargon": "patch",
+    "layman": "new version adjustment"
+  },
+  {
+    "jargon": "patch",
+    "layman": "bug fix deployment"
+  },
+  {
+    "jargon": "patch",
+    "layman": "content update"
+  },
+  {
+    "jargon": "patch",
+    "layman": "developer improvement release"
+  },
+  {
+    "jargon": "patch",
+    "layman": "game modification update"
+  },
+  {
+    "jargon": "patch",
+    "layman": "system improvement rollout"
+  },
+  {
+    "jargon": "patch",
+    "layman": "official update package"
+  },
+  {
+    "jargon": "respawn",
+    "layman": "come back after being defeated"
+  },
+  {
+    "jargon": "respawn",
+    "layman": "reappear in the game"
+  },
+  {
+    "jargon": "respawn",
+    "layman": "return to play after death"
+  },
+  {
+    "jargon": "respawn",
+    "layman": "restart at spawn point"
+  },
+  {
+    "jargon": "respawn",
+    "layman": "enter match again"
+  },
+  {
+    "jargon": "respawn",
+    "layman": "revive automatically"
+  },
+  {
+    "jargon": "respawn",
+    "layman": "rejoin after elimination"
+  },
+  {
+    "jargon": "respawn",
+    "layman": "appear again on the map"
+  },
+  {
+    "jargon": "respawn",
+    "layman": "get another life"
+  },
+  {
+    "jargon": "respawn",
+    "layman": "reset position after defeat"
+  },
+  {
+    "jargon": "hitbox",
+    "layman": "area where a character can be hit"
+  },
+  {
+    "jargon": "hitbox",
+    "layman": "invisible damage detection zone"
+  },
+  {
+    "jargon": "hitbox",
+    "layman": "collision area for attacks"
+  },
+  {
+    "jargon": "hitbox",
+    "layman": "space that registers hits"
+  },
+  {
+    "jargon": "hitbox",
+    "layman": "targetable body area"
+  },
+  {
+    "jargon": "hitbox",
+    "layman": "damage recognition boundary"
+  },
+  {
+    "jargon": "hitbox",
+    "layman": "attack contact zone"
+  },
+  {
+    "jargon": "hitbox",
+    "layman": "invisible strike area"
+  },
+  {
+    "jargon": "hitbox",
+    "layman": "registered impact region"
+  },
+  {
+    "jargon": "hitbox",
+    "layman": "area counted as a hit"
+  },
+  {
+    "jargon": "crowd control",
+    "layman": "ability that restricts enemy movement"
+  },
+  {
+    "jargon": "crowd control",
+    "layman": "skill that disables opponents temporarily"
+  },
+  {
+    "jargon": "crowd control",
+    "layman": "move that stops enemies from acting"
+  },
+  {
+    "jargon": "crowd control",
+    "layman": "effect that limits what others can do"
+  },
+  {
+    "jargon": "crowd control",
+    "layman": "power that freezes or stuns targets"
+  },
+  {
+    "jargon": "crowd control",
+    "layman": "tool for controlling multiple enemies"
+  },
+  {
+    "jargon": "crowd control",
+    "layman": "action that interrupts opponents"
+  },
+  {
+    "jargon": "crowd control",
+    "layman": "temporary immobilizing effect"
+  },
+  {
+    "jargon": "crowd control",
+    "layman": "status that prevents enemy actions"
+  },
+  {
+    "jargon": "crowd control",
+    "layman": "ability that controls the battlefield"
+  },
+  {
+    "jargon": "stun",
+    "layman": "temporarily unable to move"
+  },
+  {
+    "jargon": "stun",
+    "layman": "briefly frozen in place"
+  },
+  {
+    "jargon": "stun",
+    "layman": "momentarily unable to act"
+  },
+  {
+    "jargon": "stun",
+    "layman": "short interruption of control"
+  },
+  {
+    "jargon": "stun",
+    "layman": "forced pause on actions"
+  },
+  {
+    "jargon": "stun",
+    "layman": "temporary knockout effect"
+  },
+  {
+    "jargon": "stun",
+    "layman": "brief disabling hit"
+  },
+  {
+    "jargon": "stun",
+    "layman": "momentary loss of movement"
+  },
+  {
+    "jargon": "stun",
+    "layman": "short-term action lock"
+  },
+  {
+    "jargon": "stun",
+    "layman": "quick incapacitating effect"
+  },
+  {
+    "jargon": "root",
+    "layman": "unable to move but can still act"
+  },
+  {
+    "jargon": "root",
+    "layman": "stuck in one place"
+  },
+  {
+    "jargon": "root",
+    "layman": "movement restricted effect"
+  },
+  {
+    "jargon": "root",
+    "layman": "pinned to the ground temporarily"
+  },
+  {
+    "jargon": "root",
+    "layman": "cannot walk or run"
+  },
+  {
+    "jargon": "root",
+    "layman": "held in position"
+  },
+  {
+    "jargon": "root",
+    "layman": "movement locked"
+  },
+  {
+    "jargon": "root",
+    "layman": "immobilized without silence"
+  },
+  {
+    "jargon": "root",
+    "layman": "feet stuck in place"
+  },
+  {
+    "jargon": "root",
+    "layman": "stationary status condition"
+  },
+  {
+    "jargon": "silence",
+    "layman": "unable to use abilities"
+  },
+  {
+    "jargon": "silence",
+    "layman": "skills temporarily disabled"
+  },
+  {
+    "jargon": "silence",
+    "layman": "cannot cast powers"
+  },
+  {
+    "jargon": "silence",
+    "layman": "blocked from special moves"
+  },
+  {
+    "jargon": "silence",
+    "layman": "ability usage prevented"
+  },
+  {
+    "jargon": "silence",
+    "layman": "power activation locked"
+  },
+  {
+    "jargon": "silence",
+    "layman": "temporarily muted abilities"
+  },
+  {
+    "jargon": "silence",
+    "layman": "spell casting stopped"
+  },
+  {
+    "jargon": "silence",
+    "layman": "no special actions allowed"
+  },
+  {
+    "jargon": "silence",
+    "layman": "skill use restricted"
+  },
+  {
+    "jargon": "burst",
+    "layman": "very high damage in a short time"
+  },
+  {
+    "jargon": "burst",
+    "layman": "sudden spike in damage"
+  },
+  {
+    "jargon": "burst",
+    "layman": "quick heavy attack combo"
+  },
+  {
+    "jargon": "burst",
+    "layman": "rapid damage output"
+  },
+  {
+    "jargon": "burst",
+    "layman": "short intense offensive push"
+  },
+  {
+    "jargon": "burst",
+    "layman": "instant high impact attack"
+  },
+  {
+    "jargon": "burst",
+    "layman": "fast powerful strike sequence"
+  },
+  {
+    "jargon": "burst",
+    "layman": "immediate damage surge"
+  },
+  {
+    "jargon": "burst",
+    "layman": "quick elimination attempt"
+  },
+  {
+    "jargon": "burst",
+    "layman": "high damage in seconds"
+  },
+  {
+    "jargon": "squishy",
+    "layman": "easily defeated character"
+  },
+  {
+    "jargon": "squishy",
+    "layman": "low durability role"
+  },
+  {
+    "jargon": "squishy",
+    "layman": "takes heavy damage quickly"
+  },
+  {
+    "jargon": "squishy",
+    "layman": "fragile in combat"
+  },
+  {
+    "jargon": "squishy",
+    "layman": "low health and defense"
+  },
+  {
+    "jargon": "squishy",
+    "layman": "not built to absorb hits"
+  },
+  {
+    "jargon": "squishy",
+    "layman": "vulnerable to attacks"
+  },
+  {
+    "jargon": "squishy",
+    "layman": "easy to eliminate"
+  },
+  {
+    "jargon": "squishy",
+    "layman": "glass cannon type"
+  },
+  {
+    "jargon": "squishy",
+    "layman": "weak defense character"
+  },
+  {
+    "jargon": "carry",
+    "layman": "player who leads team to victory"
+  },
+  {
+    "jargon": "carry",
+    "layman": "main damage contributor"
+  },
+  {
+    "jargon": "carry",
+    "layman": "strong late-game performer"
+  },
+  {
+    "jargon": "carry",
+    "layman": "player who outperforms others"
+  },
+  {
+    "jargon": "carry",
+    "layman": "team\u00e2\u20ac\u2122s primary win condition"
+  },
+  {
+    "jargon": "carry",
+    "layman": "most impactful teammate"
+  },
+  {
+    "jargon": "carry",
+    "layman": "high skill leading player"
+  },
+  {
+    "jargon": "carry",
+    "layman": "person who secures most wins"
+  },
+  {
+    "jargon": "carry",
+    "layman": "dominant team member"
+  },
+  {
+    "jargon": "carry",
+    "layman": "player who does most of the work"
+  },
+  {
+    "jargon": "feed",
+    "layman": "repeatedly dying to opponents"
+  },
+  {
+    "jargon": "feed",
+    "layman": "giving enemies easy points"
+  },
+  {
+    "jargon": "feed",
+    "layman": "helping the other team by losing"
+  },
+  {
+    "jargon": "feed",
+    "layman": "dying too often"
+  },
+  {
+    "jargon": "feed",
+    "layman": "making opponents stronger by mistakes"
+  },
+  {
+    "jargon": "feed",
+    "layman": "providing enemy with advantage"
+  },
+  {
+    "jargon": "feed",
+    "layman": "losing fights repeatedly"
+  },
+  {
+    "jargon": "feed",
+    "layman": "boosting enemy progress unintentionally"
+  },
+  {
+    "jargon": "feed",
+    "layman": "poor performance causing enemy growth"
+  },
+  {
+    "jargon": "feed",
+    "layman": "constant avoidable deaths"
+  },
+  {
+    "jargon": "farm",
+    "layman": "collect resources repeatedly"
+  },
+  {
+    "jargon": "farm",
+    "layman": "gather gold or points steadily"
+  },
+  {
+    "jargon": "farm",
+    "layman": "earn experience by repetition"
+  },
+  {
+    "jargon": "farm",
+    "layman": "focus on resource collection"
+  },
+  {
+    "jargon": "farm",
+    "layman": "kill minor enemies for rewards"
+  },
+  {
+    "jargon": "farm",
+    "layman": "build strength through small gains"
+  },
+  {
+    "jargon": "farm",
+    "layman": "prioritize earning over fighting"
+  },
+  {
+    "jargon": "farm",
+    "layman": "collect currency consistently"
+  },
+  {
+    "jargon": "farm",
+    "layman": "accumulate items gradually"
+  },
+  {
+    "jargon": "farm",
+    "layman": "harvest in-game rewards"
+  },
+  {
+    "jargon": "clutch",
+    "layman": "successful under pressure"
+  },
+  {
+    "jargon": "clutch",
+    "layman": "last-second victory play"
+  },
+  {
+    "jargon": "clutch",
+    "layman": "critical moment success"
+  },
+  {
+    "jargon": "clutch",
+    "layman": "turning the game around"
+  },
+  {
+    "jargon": "clutch",
+    "layman": "winning despite disadvantage"
+  },
+  {
+    "jargon": "clutch",
+    "layman": "high-pressure performance"
+  },
+  {
+    "jargon": "clutch",
+    "layman": "saving the match at the end"
+  },
+  {
+    "jargon": "clutch",
+    "layman": "unexpected comeback action"
+  },
+  {
+    "jargon": "clutch",
+    "layman": "decisive final move"
+  },
+  {
+    "jargon": "clutch",
+    "layman": "performing when it matters most"
+  },
+  {
+    "jargon": "wipe",
+    "layman": "entire team defeated"
+  },
+  {
+    "jargon": "wipe",
+    "layman": "complete group elimination"
+  },
+  {
+    "jargon": "wipe",
+    "layman": "all players knocked out"
+  },
+  {
+    "jargon": "wipe",
+    "layman": "total team loss in fight"
+  },
+  {
+    "jargon": "wipe",
+    "layman": "no survivors on team"
+  },
+  {
+    "jargon": "wipe",
+    "layman": "full squad defeat"
+  },
+  {
+    "jargon": "wipe",
+    "layman": "everyone eliminated at once"
+  },
+  {
+    "jargon": "wipe",
+    "layman": "failed encounter with total loss"
+  },
+  {
+    "jargon": "wipe",
+    "layman": "entire party destroyed"
+  },
+  {
+    "jargon": "wipe",
+    "layman": "team completely taken out"
+  },
+  {
+    "jargon": "ult",
+    "layman": "most powerful ability"
+  },
+  {
+    "jargon": "ult",
+    "layman": "special ultimate move"
+  },
+  {
+    "jargon": "ult",
+    "layman": "strongest skill available"
+  },
+  {
+    "jargon": "ult",
+    "layman": "high-impact final ability"
+  },
+  {
+    "jargon": "ult",
+    "layman": "rarely usable major power"
+  },
+  {
+    "jargon": "ult",
+    "layman": "big cooldown super move"
+  },
+  {
+    "jargon": "ult",
+    "layman": "signature powerful attack"
+  },
+  {
+    "jargon": "ult",
+    "layman": "top-tier ability"
+  },
+  {
+    "jargon": "ult",
+    "layman": "game-changing special skill"
+  },
+  {
+    "jargon": "ult",
+    "layman": "ultimate power activation"
+  },
+  {
+    "jargon": "proc",
+    "layman": "special effect activates"
+  },
+  {
+    "jargon": "proc",
+    "layman": "bonus effect triggers"
+  },
+  {
+    "jargon": "proc",
+    "layman": "extra ability activates automatically"
+  },
+  {
+    "jargon": "proc",
+    "layman": "chance-based effect occurs"
+  },
+  {
+    "jargon": "proc",
+    "layman": "conditional bonus triggers"
+  },
+  {
+    "jargon": "proc",
+    "layman": "hidden effect activates"
+  },
+  {
+    "jargon": "proc",
+    "layman": "random bonus activates"
+  },
+  {
+    "jargon": "proc",
+    "layman": "automatic effect happens"
+  },
+  {
+    "jargon": "proc",
+    "layman": "special condition met effect"
+  },
+  {
+    "jargon": "proc",
+    "layman": "passive ability triggers"
+  },
+  {
+    "jargon": "mob",
+    "layman": "computer-controlled enemy"
+  },
+  {
+    "jargon": "mob",
+    "layman": "non-player opponent"
+  },
+  {
+    "jargon": "mob",
+    "layman": "basic enemy character"
+  },
+  {
+    "jargon": "mob",
+    "layman": "AI-controlled creature"
+  },
+  {
+    "jargon": "mob",
+    "layman": "minor hostile unit"
+  },
+  {
+    "jargon": "mob",
+    "layman": "enemy monster"
+  },
+  {
+    "jargon": "mob",
+    "layman": "standard attackable foe"
+  },
+  {
+    "jargon": "mob",
+    "layman": "game-generated opponent"
+  },
+  {
+    "jargon": "mob",
+    "layman": "regular enemy spawn"
+  },
+  {
+    "jargon": "mob",
+    "layman": "automated hostile character"
+  },
+  {
+    "jargon": "NPC",
+    "layman": "computer-controlled character"
+  },
+  {
+    "jargon": "NPC",
+    "layman": "non-playable character"
+  },
+  {
+    "jargon": "NPC",
+    "layman": "story-driven side character"
+  },
+  {
+    "jargon": "NPC",
+    "layman": "AI-controlled villager"
+  },
+  {
+    "jargon": "NPC",
+    "layman": "quest-giving character"
+  },
+  {
+    "jargon": "NPC",
+    "layman": "background game character"
+  },
+  {
+    "jargon": "NPC",
+    "layman": "non-user controlled figure"
+  },
+  {
+    "jargon": "NPC",
+    "layman": "automated storyline character"
+  },
+  {
+    "jargon": "NPC",
+    "layman": "in-game support character"
+  },
+  {
+    "jargon": "NPC",
+    "layman": "interactive but not player-controlled character"
+  },
+  {
+    "jargon": "ping",
+    "layman": "send a quick alert to teammates"
+  },
+  {
+    "jargon": "ping",
+    "layman": "mark a location on the map"
+  },
+  {
+    "jargon": "ping",
+    "layman": "signal information instantly"
+  },
+  {
+    "jargon": "ping",
+    "layman": "notify others without speaking"
+  },
+  {
+    "jargon": "ping",
+    "layman": "highlight an area for the team"
+  },
+  {
+    "jargon": "ping",
+    "layman": "issue a quick warning"
+  },
+  {
+    "jargon": "ping",
+    "layman": "communicate with a map marker"
+  },
+  {
+    "jargon": "ping",
+    "layman": "send a visual cue"
+  },
+  {
+    "jargon": "ping",
+    "layman": "alert allies to danger"
+  },
+  {
+    "jargon": "ping",
+    "layman": "tap the map to give info"
+  },
+  {
+    "jargon": "lag",
+    "layman": "game responding slowly"
+  },
+  {
+    "jargon": "lag",
+    "layman": "delay between action and response"
+  },
+  {
+    "jargon": "lag",
+    "layman": "slow internet performance"
+  },
+  {
+    "jargon": "lag",
+    "layman": "game stuttering or freezing"
+  },
+  {
+    "jargon": "lag",
+    "layman": "high network delay"
+  },
+  {
+    "jargon": "lag",
+    "layman": "late reaction from server"
+  },
+  {
+    "jargon": "lag",
+    "layman": "choppy gameplay"
+  },
+  {
+    "jargon": "lag",
+    "layman": "connection slowdown"
+  },
+  {
+    "jargon": "lag",
+    "layman": "input delay issue"
+  },
+  {
+    "jargon": "lag",
+    "layman": "performance hiccup during play"
+  },
+  {
+    "jargon": "hit scan",
+    "layman": "instant-hit weapon mechanic"
+  },
+  {
+    "jargon": "hit scan",
+    "layman": "bullet hits immediately"
+  },
+  {
+    "jargon": "hit scan",
+    "layman": "no travel time projectile"
+  },
+  {
+    "jargon": "hit scan",
+    "layman": "instant damage registration"
+  },
+  {
+    "jargon": "hit scan",
+    "layman": "shot connects instantly"
+  },
+  {
+    "jargon": "hit scan",
+    "layman": "point-and-click damage system"
+  },
+  {
+    "jargon": "hit scan",
+    "layman": "no bullet drop mechanic"
+  },
+  {
+    "jargon": "hit scan",
+    "layman": "immediate hit detection"
+  },
+  {
+    "jargon": "hit scan",
+    "layman": "direct contact weapon system"
+  },
+  {
+    "jargon": "hit scan",
+    "layman": "zero travel time attack"
+  },
+  {
+    "jargon": "projectile",
+    "layman": "attack that travels through air"
+  },
+  {
+    "jargon": "projectile",
+    "layman": "shot with travel time"
+  },
+  {
+    "jargon": "projectile",
+    "layman": "moving bullet or missile"
+  },
+  {
+    "jargon": "projectile",
+    "layman": "attack you can dodge midair"
+  },
+  {
+    "jargon": "projectile",
+    "layman": "non-instant weapon shot"
+  },
+  {
+    "jargon": "projectile",
+    "layman": "physical object fired forward"
+  },
+  {
+    "jargon": "projectile",
+    "layman": "traveling attack"
+  },
+  {
+    "jargon": "projectile",
+    "layman": "arc-based weapon shot"
+  },
+  {
+    "jargon": "projectile",
+    "layman": "delayed impact attack"
+  },
+  {
+    "jargon": "projectile",
+    "layman": "visible moving shot"
+  },
+  {
+    "jargon": "AFK",
+    "layman": "away from keyboard"
+  },
+  {
+    "jargon": "AFK",
+    "layman": "not actively playing"
+  },
+  {
+    "jargon": "AFK",
+    "layman": "temporarily inactive"
+  },
+  {
+    "jargon": "AFK",
+    "layman": "stepped away from the game"
+  },
+  {
+    "jargon": "AFK",
+    "layman": "not responding in match"
+  },
+  {
+    "jargon": "AFK",
+    "layman": "idle during gameplay"
+  },
+  {
+    "jargon": "AFK",
+    "layman": "absent player"
+  },
+  {
+    "jargon": "AFK",
+    "layman": "inactive participant"
+  },
+  {
+    "jargon": "AFK",
+    "layman": "not controlling character"
+  },
+  {
+    "jargon": "AFK",
+    "layman": "paused participation"
+  },
+  {
+    "jargon": "GG",
+    "layman": "good game"
+  },
+  {
+    "jargon": "GG",
+    "layman": "show of sportsmanship"
+  },
+  {
+    "jargon": "GG",
+    "layman": "compliment after match"
+  },
+  {
+    "jargon": "GG",
+    "layman": "polite end-of-game message"
+  },
+  {
+    "jargon": "GG",
+    "layman": "acknowledgment of match ending"
+  },
+  {
+    "jargon": "GG",
+    "layman": "respectful conclusion remark"
+  },
+  {
+    "jargon": "GG",
+    "layman": "friendly game closure"
+  },
+  {
+    "jargon": "GG",
+    "layman": "positive final comment"
+  },
+  {
+    "jargon": "GG",
+    "layman": "courteous match ending"
+  },
+  {
+    "jargon": "GG",
+    "layman": "gesture of fairness"
+  },
+  {
+    "jargon": "GLHF",
+    "layman": "good luck have fun"
+  },
+  {
+    "jargon": "GLHF",
+    "layman": "friendly start message"
+  },
+  {
+    "jargon": "GLHF",
+    "layman": "wish for enjoyable match"
+  },
+  {
+    "jargon": "GLHF",
+    "layman": "polite pre-game greeting"
+  },
+  {
+    "jargon": "GLHF",
+    "layman": "positive sportsmanship phrase"
+  },
+  {
+    "jargon": "GLHF",
+    "layman": "encouragement before play"
+  },
+  {
+    "jargon": "GLHF",
+    "layman": "welcoming game message"
+  },
+  {
+    "jargon": "GLHF",
+    "layman": "friendly kickoff comment"
+  },
+  {
+    "jargon": "GLHF",
+    "layman": "start-of-match goodwill"
+  },
+  {
+    "jargon": "GLHF",
+    "layman": "courteous opening remark"
+  },
+  {
+    "jargon": "noob",
+    "layman": "inexperienced player"
+  },
+  {
+    "jargon": "noob",
+    "layman": "beginner at the game"
+  },
+  {
+    "jargon": "noob",
+    "layman": "new and unskilled participant"
+  },
+  {
+    "jargon": "noob",
+    "layman": "novice player"
+  },
+  {
+    "jargon": "noob",
+    "layman": "rookie gamer"
+  },
+  {
+    "jargon": "noob",
+    "layman": "person still learning"
+  },
+  {
+    "jargon": "noob",
+    "layman": "low experience player"
+  },
+  {
+    "jargon": "noob",
+    "layman": "newcomer to gameplay"
+  },
+  {
+    "jargon": "noob",
+    "layman": "unfamiliar with mechanics"
+  },
+  {
+    "jargon": "noob",
+    "layman": "entry-level participant"
+  },
+  {
+    "jargon": "cheese",
+    "layman": "cheap but effective tactic"
+  },
+  {
+    "jargon": "cheese",
+    "layman": "unconventional easy strategy"
+  },
+  {
+    "jargon": "cheese",
+    "layman": "trick that exploits weakness"
+  },
+  {
+    "jargon": "cheese",
+    "layman": "low-effort winning method"
+  },
+  {
+    "jargon": "cheese",
+    "layman": "surprise tactic for quick win"
+  },
+  {
+    "jargon": "cheese",
+    "layman": "strategy relying on gimmick"
+  },
+  {
+    "jargon": "cheese",
+    "layman": "simple exploit strategy"
+  },
+  {
+    "jargon": "cheese",
+    "layman": "unexpected shortcut to victory"
+  },
+  {
+    "jargon": "cheese",
+    "layman": "easy but annoying tactic"
+  },
+  {
+    "jargon": "cheese",
+    "layman": "strategy based on loophole"
+  },
+  {
+    "jargon": "exploit",
+    "layman": "use a bug for advantage"
+  },
+  {
+    "jargon": "exploit",
+    "layman": "abuse unintended mechanic"
+  },
+  {
+    "jargon": "exploit",
+    "layman": "take advantage of glitch"
+  },
+  {
+    "jargon": "exploit",
+    "layman": "use design flaw strategically"
+  },
+  {
+    "jargon": "exploit",
+    "layman": "manipulate broken feature"
+  },
+  {
+    "jargon": "exploit",
+    "layman": "benefit from programming error"
+  },
+  {
+    "jargon": "exploit",
+    "layman": "trigger bug intentionally"
+  },
+  {
+    "jargon": "exploit",
+    "layman": "gain unfair edge through glitch"
+  },
+  {
+    "jargon": "exploit",
+    "layman": "misuse unintended feature"
+  },
+  {
+    "jargon": "exploit",
+    "layman": "capitalize on oversight in system"
+  },
+  {
+    "jargon": "RNG",
+    "layman": "random chance mechanic"
+  },
+  {
+    "jargon": "RNG",
+    "layman": "luck-based outcome"
+  },
+  {
+    "jargon": "RNG",
+    "layman": "random number system deciding result"
+  },
+  {
+    "jargon": "RNG",
+    "layman": "chance-driven reward system"
+  },
+  {
+    "jargon": "RNG",
+    "layman": "unpredictable outcome factor"
+  },
+  {
+    "jargon": "RNG",
+    "layman": "luck element in gameplay"
+  },
+  {
+    "jargon": "RNG",
+    "layman": "randomized result generator"
+  },
+  {
+    "jargon": "RNG",
+    "layman": "probability-based system"
+  },
+  {
+    "jargon": "RNG",
+    "layman": "game luck calculation"
+  },
+  {
+    "jargon": "RNG",
+    "layman": "random outcome mechanic"
+  },
+  {
+    "jargon": "speedrun",
+    "layman": "finish the game as fast as possible"
+  },
+  {
+    "jargon": "speedrun",
+    "layman": "complete a level in record time"
+  },
+  {
+    "jargon": "speedrun",
+    "layman": "race to beat the game quickly"
+  },
+  {
+    "jargon": "speedrun",
+    "layman": "optimize play for fastest completion"
+  },
+  {
+    "jargon": "speedrun",
+    "layman": "skip extras to finish quickly"
+  },
+  {
+    "jargon": "speedrun",
+    "layman": "time-focused gameplay challenge"
+  },
+  {
+    "jargon": "speedrun",
+    "layman": "playthrough aimed at shortest time"
+  },
+  {
+    "jargon": "speedrun",
+    "layman": "competitive fast completion"
+  },
+  {
+    "jargon": "speedrun",
+    "layman": "rushing through objectives efficiently"
+  },
+  {
+    "jargon": "speedrun",
+    "layman": "breaking completion time records"
+  },
+  {
+    "jargon": "softlock",
+    "layman": "stuck and unable to progress"
+  },
+  {
+    "jargon": "softlock",
+    "layman": "trapped without restarting"
+  },
+  {
+    "jargon": "softlock",
+    "layman": "game progress blocked by glitch"
+  },
+  {
+    "jargon": "softlock",
+    "layman": "cannot continue but game still running"
+  },
+  {
+    "jargon": "softlock",
+    "layman": "progress halted unintentionally"
+  },
+  {
+    "jargon": "softlock",
+    "layman": "forced restart due to bug"
+  },
+  {
+    "jargon": "softlock",
+    "layman": "unwinnable situation created"
+  },
+  {
+    "jargon": "softlock",
+    "layman": "stuck in broken state"
+  },
+  {
+    "jargon": "softlock",
+    "layman": "advancement impossible temporarily"
+  },
+  {
+    "jargon": "softlock",
+    "layman": "blocked progression without crash"
+  },
+  {
+    "jargon": "hardlock",
+    "layman": "game completely frozen"
+  },
+  {
+    "jargon": "hardlock",
+    "layman": "system crash requiring reset"
+  },
+  {
+    "jargon": "hardlock",
+    "layman": "game stops responding entirely"
+  },
+  {
+    "jargon": "hardlock",
+    "layman": "forced to close the program"
+  },
+  {
+    "jargon": "hardlock",
+    "layman": "full freeze with no recovery"
+  },
+  {
+    "jargon": "hardlock",
+    "layman": "console or PC locked up"
+  },
+  {
+    "jargon": "hardlock",
+    "layman": "unresponsive software state"
+  },
+  {
+    "jargon": "hardlock",
+    "layman": "requires reboot to fix"
+  },
+  {
+    "jargon": "hardlock",
+    "layman": "complete system stall"
+  },
+  {
+    "jargon": "hardlock",
+    "layman": "crash preventing any input"
+  },
+  {
+    "jargon": "sandbox",
+    "layman": "open-ended play environment"
+  },
+  {
+    "jargon": "sandbox",
+    "layman": "freedom to explore and build"
+  },
+  {
+    "jargon": "sandbox",
+    "layman": "no strict objectives mode"
+  },
+  {
+    "jargon": "sandbox",
+    "layman": "creative open world setting"
+  },
+  {
+    "jargon": "sandbox",
+    "layman": "player-driven gameplay"
+  },
+  {
+    "jargon": "sandbox",
+    "layman": "experiment freely in game"
+  },
+  {
+    "jargon": "sandbox",
+    "layman": "minimal restrictions on actions"
+  },
+  {
+    "jargon": "sandbox",
+    "layman": "open gameplay space"
+  },
+  {
+    "jargon": "sandbox",
+    "layman": "build and test without limits"
+  },
+  {
+    "jargon": "sandbox",
+    "layman": "non-linear play style"
+  },
+  {
+    "jargon": "open world",
+    "layman": "large map you can explore freely"
+  },
+  {
+    "jargon": "open world",
+    "layman": "non-linear exploration game"
+  },
+  {
+    "jargon": "open world",
+    "layman": "roam anywhere environment"
+  },
+  {
+    "jargon": "open world",
+    "layman": "free-roaming map design"
+  },
+  {
+    "jargon": "open world",
+    "layman": "no fixed path progression"
+  },
+  {
+    "jargon": "open world",
+    "layman": "explore at your own pace"
+  },
+  {
+    "jargon": "open world",
+    "layman": "vast interconnected world"
+  },
+  {
+    "jargon": "open world",
+    "layman": "choose-your-own-route gameplay"
+  },
+  {
+    "jargon": "open world",
+    "layman": "wide explorable setting"
+  },
+  {
+    "jargon": "open world",
+    "layman": "map without strict boundaries"
+  },
+  {
+    "jargon": "linear",
+    "layman": "fixed path progression"
+  },
+  {
+    "jargon": "linear",
+    "layman": "straightforward level design"
+  },
+  {
+    "jargon": "linear",
+    "layman": "single route gameplay"
+  },
+  {
+    "jargon": "linear",
+    "layman": "predetermined sequence of events"
+  },
+  {
+    "jargon": "linear",
+    "layman": "guided step-by-step play"
+  },
+  {
+    "jargon": "linear",
+    "layman": "limited exploration options"
+  },
+  {
+    "jargon": "linear",
+    "layman": "structured progression system"
+  },
+  {
+    "jargon": "linear",
+    "layman": "one-way advancement"
+  },
+  {
+    "jargon": "linear",
+    "layman": "clear start-to-finish path"
+  },
+  {
+    "jargon": "linear",
+    "layman": "restricted branching choices"
+  },
+  {
+    "jargon": "hitmarker",
+    "layman": "visual confirmation of a hit"
+  },
+  {
+    "jargon": "hitmarker",
+    "layman": "indicator showing damage dealt"
+  },
+  {
+    "jargon": "hitmarker",
+    "layman": "symbol confirming shot landed"
+  },
+  {
+    "jargon": "hitmarker",
+    "layman": "feedback for successful attack"
+  },
+  {
+    "jargon": "hitmarker",
+    "layman": "on-screen hit indicator"
+  },
+  {
+    "jargon": "hitmarker",
+    "layman": "crosshair flash on impact"
+  },
+  {
+    "jargon": "hitmarker",
+    "layman": "damage confirmation signal"
+  },
+  {
+    "jargon": "hitmarker",
+    "layman": "visual cue of contact"
+  },
+  {
+    "jargon": "hitmarker",
+    "layman": "attack landed notification"
+  },
+  {
+    "jargon": "hitmarker",
+    "layman": "impact feedback icon"
+  },
+  {
+    "jargon": "hipfire",
+    "layman": "shoot without aiming down sights"
+  },
+  {
+    "jargon": "hipfire",
+    "layman": "fire from the hip"
+  },
+  {
+    "jargon": "hipfire",
+    "layman": "shoot without zooming"
+  },
+  {
+    "jargon": "hipfire",
+    "layman": "quick unscoped shot"
+  },
+  {
+    "jargon": "hipfire",
+    "layman": "casual aiming fire"
+  },
+  {
+    "jargon": "hipfire",
+    "layman": "shoot without precision aim"
+  },
+  {
+    "jargon": "hipfire",
+    "layman": "fast but less accurate fire"
+  },
+  {
+    "jargon": "hipfire",
+    "layman": "spray without scope"
+  },
+  {
+    "jargon": "hipfire",
+    "layman": "default shooting stance"
+  },
+  {
+    "jargon": "hipfire",
+    "layman": "non-zoom firing mode"
+  },
+  {
+    "jargon": "spawn kill",
+    "layman": "eliminate someone immediately after they appear"
+  },
+  {
+    "jargon": "spawn kill",
+    "layman": "attack player at respawn"
+  },
+  {
+    "jargon": "spawn kill",
+    "layman": "kill before opponent can react"
+  },
+  {
+    "jargon": "spawn kill",
+    "layman": "ambush at spawn point"
+  },
+  {
+    "jargon": "spawn kill",
+    "layman": "instant defeat upon respawn"
+  },
+  {
+    "jargon": "spawn kill",
+    "layman": "prevent movement after spawning"
+  },
+  {
+    "jargon": "spawn kill",
+    "layman": "trap enemies at start location"
+  },
+  {
+    "jargon": "spawn kill",
+    "layman": "unfair immediate elimination"
+  },
+  {
+    "jargon": "spawn kill",
+    "layman": "attack right after reentry"
+  },
+  {
+    "jargon": "spawn kill",
+    "layman": "remove player instantly on return"
+  },
+  {
+    "jargon": "power creep",
+    "layman": "new content stronger than old"
+  },
+  {
+    "jargon": "power creep",
+    "layman": "gradual increase in game strength"
+  },
+  {
+    "jargon": "power creep",
+    "layman": "older items become weaker over time"
+  },
+  {
+    "jargon": "power creep",
+    "layman": "balance shifting upward"
+  },
+  {
+    "jargon": "power creep",
+    "layman": "new updates overpower previous gear"
+  },
+  {
+    "jargon": "power creep",
+    "layman": "steady rise in overall power"
+  },
+  {
+    "jargon": "power creep",
+    "layman": "inflation of abilities"
+  },
+  {
+    "jargon": "power creep",
+    "layman": "progressive strength escalation"
+  },
+  {
+    "jargon": "power creep",
+    "layman": "older strategies outdated by stronger ones"
+  },
+  {
+    "jargon": "power creep",
+    "layman": "increasing baseline strength across updates"
+  },
+  {
+    "jargon": "skill ceiling",
+    "layman": "maximum potential mastery level"
+  },
+  {
+    "jargon": "skill ceiling",
+    "layman": "highest achievable performance"
+  },
+  {
+    "jargon": "skill ceiling",
+    "layman": "limit of how good you can get"
+  },
+  {
+    "jargon": "skill ceiling",
+    "layman": "depth of mastery possible"
+  },
+  {
+    "jargon": "skill ceiling",
+    "layman": "top-end improvement potential"
+  },
+  {
+    "jargon": "skill ceiling",
+    "layman": "upper limit of player skill"
+  },
+  {
+    "jargon": "skill ceiling",
+    "layman": "maximum mechanical complexity"
+  },
+  {
+    "jargon": "skill ceiling",
+    "layman": "advanced performance cap"
+  },
+  {
+    "jargon": "skill ceiling",
+    "layman": "peak competitive potential"
+  },
+  {
+    "jargon": "skill ceiling",
+    "layman": "ultimate mastery threshold"
+  },
+  {
+    "jargon": "skill floor",
+    "layman": "minimum ability needed to play well"
+  },
+  {
+    "jargon": "skill floor",
+    "layman": "baseline difficulty level"
+  },
+  {
+    "jargon": "skill floor",
+    "layman": "entry skill requirement"
+  },
+  {
+    "jargon": "skill floor",
+    "layman": "how hard it is to start"
+  },
+  {
+    "jargon": "skill floor",
+    "layman": "minimum effectiveness threshold"
+  },
+  {
+    "jargon": "skill floor",
+    "layman": "basic competence requirement"
+  },
+  {
+    "jargon": "skill floor",
+    "layman": "starting difficulty barrier"
+  },
+  {
+    "jargon": "skill floor",
+    "layman": "lowest viable performance level"
+  },
+  {
+    "jargon": "skill floor",
+    "layman": "ease of initial use"
+  },
+  {
+    "jargon": "skill floor",
+    "layman": "beginner difficulty rating"
+  },
+  {
+    "jargon": "payload",
+    "layman": "objective that must be escorted"
+  },
+  {
+    "jargon": "payload",
+    "layman": "moveable goal object"
+  },
+  {
+    "jargon": "payload",
+    "layman": "cart that needs protection"
+  },
+  {
+    "jargon": "payload",
+    "layman": "escort mission target"
+  },
+  {
+    "jargon": "payload",
+    "layman": "pushable objective"
+  },
+  {
+    "jargon": "payload",
+    "layman": "mobile scoring objective"
+  },
+  {
+    "jargon": "payload",
+    "layman": "team-escorted item"
+  },
+  {
+    "jargon": "payload",
+    "layman": "moving win condition"
+  },
+  {
+    "jargon": "payload",
+    "layman": "protect while advancing target"
+  },
+  {
+    "jargon": "payload",
+    "layman": "objective vehicle to move forward"
+  },
+  {
+    "jargon": "backstab",
+    "layman": "attack from behind for extra damage"
+  },
+  {
+    "jargon": "backstab",
+    "layman": "surprise strike from the rear"
+  },
+  {
+    "jargon": "backstab",
+    "layman": "bonus damage when unnoticed"
+  },
+  {
+    "jargon": "backstab",
+    "layman": "sneak attack on unaware enemy"
+  },
+  {
+    "jargon": "backstab",
+    "layman": "high damage rear attack"
+  },
+  {
+    "jargon": "backstab",
+    "layman": "ambush hit from behind"
+  },
+  {
+    "jargon": "backstab",
+    "layman": "critical strike from the back"
+  },
+  {
+    "jargon": "backstab",
+    "layman": "stealth-based rear attack"
+  },
+  {
+    "jargon": "backstab",
+    "layman": "extra damage due to positioning"
+  },
+  {
+    "jargon": "backstab",
+    "layman": "attack exploiting enemy blind spot"
+  },
+  {
+    "jargon": "one-shot",
+    "layman": "defeat with a single hit"
+  },
+  {
+    "jargon": "one-shot",
+    "layman": "instant elimination"
+  },
+  {
+    "jargon": "one-shot",
+    "layman": "kill in one attack"
+  },
+  {
+    "jargon": "one-shot",
+    "layman": "single blow victory"
+  },
+  {
+    "jargon": "one-shot",
+    "layman": "no second hit needed"
+  },
+  {
+    "jargon": "one-shot",
+    "layman": "immediate takedown"
+  },
+  {
+    "jargon": "one-shot",
+    "layman": "instant knockout"
+  },
+  {
+    "jargon": "one-shot",
+    "layman": "quick single strike win"
+  },
+  {
+    "jargon": "one-shot",
+    "layman": "full damage in one move"
+  },
+  {
+    "jargon": "one-shot",
+    "layman": "eliminate instantly with one attack"
+  },
+  {
+    "jargon": "snowball",
+    "layman": "gain increasing advantage over time"
+  },
+  {
+    "jargon": "snowball",
+    "layman": "momentum that keeps growing"
+  },
+  {
+    "jargon": "snowball",
+    "layman": "early lead becoming unstoppable"
+  },
+  {
+    "jargon": "snowball",
+    "layman": "success building on itself"
+  },
+  {
+    "jargon": "snowball",
+    "layman": "progressively stronger position"
+  },
+  {
+    "jargon": "snowball",
+    "layman": "advantage that compounds"
+  },
+  {
+    "jargon": "snowball",
+    "layman": "win getting easier over time"
+  },
+  {
+    "jargon": "snowball",
+    "layman": "small lead turning huge"
+  },
+  {
+    "jargon": "snowball",
+    "layman": "accelerating dominance"
+  },
+  {
+    "jargon": "snowball",
+    "layman": "cascading competitive advantage"
+  },
+  {
+    "jargon": "tilt",
+    "layman": "play worse due to frustration"
+  },
+  {
+    "jargon": "tilt",
+    "layman": "emotional loss affecting performance"
+  },
+  {
+    "jargon": "tilt",
+    "layman": "anger causing mistakes"
+  },
+  {
+    "jargon": "tilt",
+    "layman": "frustration lowering skill"
+  },
+  {
+    "jargon": "tilt",
+    "layman": "mental state hurting gameplay"
+  },
+  {
+    "jargon": "tilt",
+    "layman": "upset and unfocused playing"
+  },
+  {
+    "jargon": "tilt",
+    "layman": "letting emotions control decisions"
+  },
+  {
+    "jargon": "tilt",
+    "layman": "spiral of poor performance"
+  },
+  {
+    "jargon": "tilt",
+    "layman": "stress-based mistakes"
+  },
+  {
+    "jargon": "tilt",
+    "layman": "losing composure during match"
+  },
+  {
+    "jargon": "toxicity",
+    "layman": "negative player behavior"
+  },
+  {
+    "jargon": "toxicity",
+    "layman": "verbal harassment in chat"
+  },
+  {
+    "jargon": "toxicity",
+    "layman": "unsportsmanlike conduct"
+  },
+  {
+    "jargon": "toxicity",
+    "layman": "rude or abusive communication"
+  },
+  {
+    "jargon": "toxicity",
+    "layman": "hostile attitude toward teammates"
+  },
+  {
+    "jargon": "toxicity",
+    "layman": "harmful online behavior"
+  },
+  {
+    "jargon": "toxicity",
+    "layman": "insulting other players"
+  },
+  {
+    "jargon": "toxicity",
+    "layman": "creating bad team environment"
+  },
+  {
+    "jargon": "toxicity",
+    "layman": "unsupportive aggressive behavior"
+  },
+  {
+    "jargon": "toxicity",
+    "layman": "disruptive negativity in game"
+  },
+  {
+    "jargon": "queue",
+    "layman": "wait in line for a match"
+  },
+  {
+    "jargon": "queue",
+    "layman": "join matchmaking system"
+  },
+  {
+    "jargon": "queue",
+    "layman": "enter waiting list"
+  },
+  {
+    "jargon": "queue",
+    "layman": "wait for game to start"
+  },
+  {
+    "jargon": "queue",
+    "layman": "sign up for next match"
+  },
+  {
+    "jargon": "queue",
+    "layman": "matchmaking waiting period"
+  },
+  {
+    "jargon": "queue",
+    "layman": "standby for team assignment"
+  },
+  {
+    "jargon": "queue",
+    "layman": "automated match entry process"
+  },
+  {
+    "jargon": "queue",
+    "layman": "waiting for available slot"
+  },
+  {
+    "jargon": "queue",
+    "layman": "line system for gameplay"
+  },
+  {
+    "jargon": "matchmaking",
+    "layman": "system that pairs players"
+  },
+  {
+    "jargon": "matchmaking",
+    "layman": "automatic team assignment"
+  },
+  {
+    "jargon": "matchmaking",
+    "layman": "skill-based player pairing"
+  },
+  {
+    "jargon": "matchmaking",
+    "layman": "finding balanced opponents"
+  },
+  {
+    "jargon": "matchmaking",
+    "layman": "game\u00e2\u20ac\u2122s player matching service"
+  },
+  {
+    "jargon": "matchmaking",
+    "layman": "organized player grouping"
+  },
+  {
+    "jargon": "matchmaking",
+    "layman": "rank-based team creation"
+  },
+  {
+    "jargon": "matchmaking",
+    "layman": "automated opponent selection"
+  },
+  {
+    "jargon": "matchmaking",
+    "layman": "balanced match setup"
+  },
+  {
+    "jargon": "matchmaking",
+    "layman": "system that creates fair games"
+  },
+  {
+    "jargon": "ranked",
+    "layman": "competitive mode with ratings"
+  },
+  {
+    "jargon": "ranked",
+    "layman": "matches affecting leaderboard position"
+  },
+  {
+    "jargon": "ranked",
+    "layman": "skill-based competitive queue"
+  },
+  {
+    "jargon": "ranked",
+    "layman": "rated gameplay mode"
+  },
+  {
+    "jargon": "ranked",
+    "layman": "ladder competition system"
+  },
+  {
+    "jargon": "ranked",
+    "layman": "games that change your rank"
+  },
+  {
+    "jargon": "ranked",
+    "layman": "formal competitive matches"
+  },
+  {
+    "jargon": "ranked",
+    "layman": "performance-based tier system"
+  },
+  {
+    "jargon": "ranked",
+    "layman": "official ranking competition"
+  },
+  {
+    "jargon": "ranked",
+    "layman": "competitive standings mode"
+  },
+  {
+    "jargon": "casual",
+    "layman": "non-competitive mode"
+  },
+  {
+    "jargon": "casual",
+    "layman": "relaxed gameplay option"
+  },
+  {
+    "jargon": "casual",
+    "layman": "no ranking consequences"
+  },
+  {
+    "jargon": "casual",
+    "layman": "informal match type"
+  },
+  {
+    "jargon": "casual",
+    "layman": "low-pressure play mode"
+  },
+  {
+    "jargon": "casual",
+    "layman": "just-for-fun queue"
+  },
+  {
+    "jargon": "casual",
+    "layman": "unranked game session"
+  },
+  {
+    "jargon": "casual",
+    "layman": "friendly match type"
+  },
+  {
+    "jargon": "casual",
+    "layman": "no rating impact game"
+  },
+  {
+    "jargon": "casual",
+    "layman": "laid-back multiplayer mode"
+  },
+  {
+    "jargon": "hardcore",
+    "layman": "very difficult mode"
+  },
+  {
+    "jargon": "hardcore",
+    "layman": "high challenge setting"
+  },
+  {
+    "jargon": "hardcore",
+    "layman": "minimal assistance gameplay"
+  },
+  {
+    "jargon": "hardcore",
+    "layman": "punishing difficulty level"
+  },
+  {
+    "jargon": "hardcore",
+    "layman": "serious competitive focus"
+  },
+  {
+    "jargon": "hardcore",
+    "layman": "no room for mistakes mode"
+  },
+  {
+    "jargon": "hardcore",
+    "layman": "intense gameplay experience"
+  },
+  {
+    "jargon": "hardcore",
+    "layman": "advanced player setting"
+  },
+  {
+    "jargon": "hardcore",
+    "layman": "strict rule variation"
+  },
+  {
+    "jargon": "hardcore",
+    "layman": "high-risk game style"
+  },
+  {
+    "jargon": "raid",
+    "layman": "large group mission"
+  },
+  {
+    "jargon": "raid",
+    "layman": "coordinated team challenge"
+  },
+  {
+    "jargon": "raid",
+    "layman": "high difficulty group event"
+  },
+  {
+    "jargon": "raid",
+    "layman": "multi-player boss encounter"
+  },
+  {
+    "jargon": "raid",
+    "layman": "organized large team battle"
+  },
+  {
+    "jargon": "raid",
+    "layman": "endgame cooperative mission"
+  },
+  {
+    "jargon": "raid",
+    "layman": "big group objective"
+  },
+  {
+    "jargon": "raid",
+    "layman": "strategic team dungeon run"
+  },
+  {
+    "jargon": "raid",
+    "layman": "massive cooperative fight"
+  },
+  {
+    "jargon": "raid",
+    "layman": "complex group challenge mission"
+  },
+  {
+    "jargon": "dungeon",
+    "layman": "instanced area with enemies and rewards"
+  },
+  {
+    "jargon": "dungeon",
+    "layman": "separate mission zone"
+  },
+  {
+    "jargon": "dungeon",
+    "layman": "enemy-filled underground area"
+  },
+  {
+    "jargon": "dungeon",
+    "layman": "structured cooperative challenge"
+  },
+  {
+    "jargon": "dungeon",
+    "layman": "contained adventure map"
+  },
+  {
+    "jargon": "dungeon",
+    "layman": "level with bosses and loot"
+  },
+  {
+    "jargon": "dungeon",
+    "layman": "private team combat area"
+  },
+  {
+    "jargon": "dungeon",
+    "layman": "story-based mission zone"
+  },
+  {
+    "jargon": "dungeon",
+    "layman": "multi-room combat scenario"
+  },
+  {
+    "jargon": "dungeon",
+    "layman": "self-contained quest area"
+  },
+  {
+    "jargon": "boss",
+    "layman": "powerful main enemy"
+  },
+  {
+    "jargon": "boss",
+    "layman": "final challenge opponent"
+  },
+  {
+    "jargon": "boss",
+    "layman": "stronger enemy leader"
+  },
+  {
+    "jargon": "boss",
+    "layman": "high-difficulty target"
+  },
+  {
+    "jargon": "boss",
+    "layman": "major encounter foe"
+  },
+  {
+    "jargon": "boss",
+    "layman": "primary villain fight"
+  },
+  {
+    "jargon": "boss",
+    "layman": "end-of-level enemy"
+  },
+  {
+    "jargon": "boss",
+    "layman": "large health enemy"
+  },
+  {
+    "jargon": "boss",
+    "layman": "central battle opponent"
+  },
+  {
+    "jargon": "boss",
+    "layman": "key objective enemy"
+  },
+  {
+    "jargon": "adds",
+    "layman": "extra minor enemies during a fight"
+  },
+  {
+    "jargon": "adds",
+    "layman": "additional spawned opponents"
+  },
+  {
+    "jargon": "adds",
+    "layman": "backup enemies joining battle"
+  },
+  {
+    "jargon": "adds",
+    "layman": "supporting mobs in encounter"
+  },
+  {
+    "jargon": "adds",
+    "layman": "secondary targets appearing mid-fight"
+  },
+  {
+    "jargon": "adds",
+    "layman": "reinforcement enemies"
+  },
+  {
+    "jargon": "adds",
+    "layman": "smaller foes assisting boss"
+  },
+  {
+    "jargon": "adds",
+    "layman": "new threats spawned in combat"
+  },
+  {
+    "jargon": "adds",
+    "layman": "side enemies complicating fight"
+  },
+  {
+    "jargon": "adds",
+    "layman": "extra waves of opponents"
+  },
+  {
+    "jargon": "aggro reset",
+    "layman": "enemy forgets its target"
+  },
+  {
+    "jargon": "aggro reset",
+    "layman": "threat level cleared"
+  },
+  {
+    "jargon": "aggro reset",
+    "layman": "enemy stops chasing player"
+  },
+  {
+    "jargon": "aggro reset",
+    "layman": "targeting priority wiped"
+  },
+  {
+    "jargon": "aggro reset",
+    "layman": "hostility recalculated"
+  },
+  {
+    "jargon": "aggro reset",
+    "layman": "boss changes focus unexpectedly"
+  },
+  {
+    "jargon": "aggro reset",
+    "layman": "enemy drops current target"
+  },
+  {
+    "jargon": "aggro reset",
+    "layman": "threat table restarted"
+  },
+  {
+    "jargon": "aggro reset",
+    "layman": "combat attention refreshed"
+  },
+  {
+    "jargon": "aggro reset",
+    "layman": "enemy switches targets suddenly"
+  },
+  {
+    "jargon": "threat",
+    "layman": "measure of how much enemy targets you"
+  },
+  {
+    "jargon": "threat",
+    "layman": "hidden value controlling aggro"
+  },
+  {
+    "jargon": "threat",
+    "layman": "priority level for being attacked"
+  },
+  {
+    "jargon": "threat",
+    "layman": "amount of enemy attention generated"
+  },
+  {
+    "jargon": "threat",
+    "layman": "system deciding who gets attacked"
+  },
+  {
+    "jargon": "threat",
+    "layman": "combat attention score"
+  },
+  {
+    "jargon": "threat",
+    "layman": "targeting weight value"
+  },
+  {
+    "jargon": "threat",
+    "layman": "indicator of enemy focus"
+  },
+  {
+    "jargon": "threat",
+    "layman": "invisible hostility ranking"
+  },
+  {
+    "jargon": "threat",
+    "layman": "attack priority metric"
+  },
+  {
+    "jargon": "pull",
+    "layman": "initiate combat with enemies"
+  },
+  {
+    "jargon": "pull",
+    "layman": "start a fight deliberately"
+  },
+  {
+    "jargon": "pull",
+    "layman": "draw enemies toward team"
+  },
+  {
+    "jargon": "pull",
+    "layman": "engage first in encounter"
+  },
+  {
+    "jargon": "pull",
+    "layman": "trigger enemy aggression"
+  },
+  {
+    "jargon": "pull",
+    "layman": "begin combat sequence"
+  },
+  {
+    "jargon": "pull",
+    "layman": "attract monsters to position"
+  },
+  {
+    "jargon": "pull",
+    "layman": "activate hostile response"
+  },
+  {
+    "jargon": "pull",
+    "layman": "initiate encounter"
+  },
+  {
+    "jargon": "pull",
+    "layman": "start the battle event"
+  },
+  {
+    "jargon": "wipe mechanic",
+    "layman": "boss ability that can defeat entire team"
+  },
+  {
+    "jargon": "wipe mechanic",
+    "layman": "attack causing total team loss"
+  },
+  {
+    "jargon": "wipe mechanic",
+    "layman": "failure condition move"
+  },
+  {
+    "jargon": "wipe mechanic",
+    "layman": "instant group defeat trigger"
+  },
+  {
+    "jargon": "wipe mechanic",
+    "layman": "mechanic requiring perfect execution"
+  },
+  {
+    "jargon": "wipe mechanic",
+    "layman": "team-eliminating ability"
+  },
+  {
+    "jargon": "wipe mechanic",
+    "layman": "encounter-ending mistake trigger"
+  },
+  {
+    "jargon": "wipe mechanic",
+    "layman": "high punishment boss action"
+  },
+  {
+    "jargon": "wipe mechanic",
+    "layman": "group failure consequence"
+  },
+  {
+    "jargon": "wipe mechanic",
+    "layman": "all-player defeat condition"
+  },
+  {
+    "jargon": "cooldown reduction",
+    "layman": "shorter wait time between abilities"
+  },
+  {
+    "jargon": "cooldown reduction",
+    "layman": "abilities recharge faster"
+  },
+  {
+    "jargon": "cooldown reduction",
+    "layman": "reduced skill delay"
+  },
+  {
+    "jargon": "cooldown reduction",
+    "layman": "more frequent ability use"
+  },
+  {
+    "jargon": "cooldown reduction",
+    "layman": "shortened recovery timer"
+  },
+  {
+    "jargon": "cooldown reduction",
+    "layman": "faster power reuse"
+  },
+  {
+    "jargon": "cooldown reduction",
+    "layman": "less downtime on skills"
+  },
+  {
+    "jargon": "cooldown reduction",
+    "layman": "quicker reset on abilities"
+  },
+  {
+    "jargon": "cooldown reduction",
+    "layman": "improved ability availability"
+  },
+  {
+    "jargon": "cooldown reduction",
+    "layman": "reduced waiting period"
+  },
+  {
+    "jargon": "damage over time",
+    "layman": "gradual health loss effect"
+  },
+  {
+    "jargon": "damage over time",
+    "layman": "continuous small damage"
+  },
+  {
+    "jargon": "damage over time",
+    "layman": "poison-like slow harm"
+  },
+  {
+    "jargon": "damage over time",
+    "layman": "ongoing injury effect"
+  },
+  {
+    "jargon": "damage over time",
+    "layman": "health decreasing steadily"
+  },
+  {
+    "jargon": "damage over time",
+    "layman": "burn or bleed effect"
+  },
+  {
+    "jargon": "damage over time",
+    "layman": "damage applied in intervals"
+  },
+  {
+    "jargon": "damage over time",
+    "layman": "lingering harm mechanic"
+  },
+  {
+    "jargon": "damage over time",
+    "layman": "slow ticking damage"
+  },
+  {
+    "jargon": "damage over time",
+    "layman": "persistent health drain"
+  },
+  {
+    "jargon": "heal over time",
+    "layman": "gradual health restoration"
+  },
+  {
+    "jargon": "heal over time",
+    "layman": "continuous small healing"
+  },
+  {
+    "jargon": "heal over time",
+    "layman": "regeneration effect"
+  },
+  {
+    "jargon": "heal over time",
+    "layman": "steady recovery mechanic"
+  },
+  {
+    "jargon": "heal over time",
+    "layman": "health regained in intervals"
+  },
+  {
+    "jargon": "heal over time",
+    "layman": "slow healing tick"
+  },
+  {
+    "jargon": "heal over time",
+    "layman": "ongoing recovery ability"
+  },
+  {
+    "jargon": "heal over time",
+    "layman": "sustained healing effect"
+  },
+  {
+    "jargon": "heal over time",
+    "layman": "periodic health boost"
+  },
+  {
+    "jargon": "heal over time",
+    "layman": "gradual restoration spell"
+  },
+  {
+    "jargon": "crowd pull",
+    "layman": "engage many enemies at once"
+  },
+  {
+    "jargon": "crowd pull",
+    "layman": "start fight with large group"
+  },
+  {
+    "jargon": "crowd pull",
+    "layman": "attract multiple foes simultaneously"
+  },
+  {
+    "jargon": "crowd pull",
+    "layman": "mass enemy engagement"
+  },
+  {
+    "jargon": "crowd pull",
+    "layman": "trigger several opponents together"
+  },
+  {
+    "jargon": "crowd pull",
+    "layman": "multi-target fight initiation"
+  },
+  {
+    "jargon": "crowd pull",
+    "layman": "draw entire group into combat"
+  },
+  {
+    "jargon": "crowd pull",
+    "layman": "start battle with many enemies"
+  },
+  {
+    "jargon": "crowd pull",
+    "layman": "large-scale enemy activation"
+  },
+  {
+    "jargon": "crowd pull",
+    "layman": "pull multiple mobs at once"
+  },
+  {
+    "jargon": "enrage",
+    "layman": "boss becomes stronger after time limit"
+  },
+  {
+    "jargon": "enrage",
+    "layman": "enemy gains damage boost late fight"
+  },
+  {
+    "jargon": "enrage",
+    "layman": "fight becomes harder over time"
+  },
+  {
+    "jargon": "enrage",
+    "layman": "timer-based difficulty spike"
+  },
+  {
+    "jargon": "enrage",
+    "layman": "boss power increases suddenly"
+  },
+  {
+    "jargon": "enrage",
+    "layman": "last phase damage increase"
+  },
+  {
+    "jargon": "enrage",
+    "layman": "punishment for slow completion"
+  },
+  {
+    "jargon": "enrage",
+    "layman": "combat intensity escalation"
+  },
+  {
+    "jargon": "enrage",
+    "layman": "final stage strength boost"
+  },
+  {
+    "jargon": "enrage",
+    "layman": "anger mode increasing difficulty"
+  },
+  {
+    "jargon": "line of sight",
+    "layman": "clear visual path to target"
+  },
+  {
+    "jargon": "line of sight",
+    "layman": "nothing blocking view"
+  },
+  {
+    "jargon": "line of sight",
+    "layman": "direct visibility required"
+  },
+  {
+    "jargon": "line of sight",
+    "layman": "must see target to act"
+  },
+  {
+    "jargon": "line of sight",
+    "layman": "unobstructed aim path"
+  },
+  {
+    "jargon": "line of sight",
+    "layman": "clear angle to enemy"
+  },
+  {
+    "jargon": "line of sight",
+    "layman": "no wall between players"
+  },
+  {
+    "jargon": "line of sight",
+    "layman": "visible target condition"
+  },
+  {
+    "jargon": "line of sight",
+    "layman": "direct visual connection"
+  },
+  {
+    "jargon": "line of sight",
+    "layman": "open sightline requirement"
+  },
+  {
+    "jargon": "hit registration",
+    "layman": "system confirming a successful hit"
+  },
+  {
+    "jargon": "hit registration",
+    "layman": "server recognizing damage"
+  },
+  {
+    "jargon": "hit registration",
+    "layman": "attack properly counted"
+  },
+  {
+    "jargon": "hit registration",
+    "layman": "game acknowledges contact"
+  },
+  {
+    "jargon": "hit registration",
+    "layman": "damage recorded correctly"
+  },
+  {
+    "jargon": "hit registration",
+    "layman": "shot successfully processed"
+  },
+  {
+    "jargon": "hit registration",
+    "layman": "accurate impact detection"
+  },
+  {
+    "jargon": "hit registration",
+    "layman": "confirmed strike recognition"
+  },
+  {
+    "jargon": "hit registration",
+    "layman": "server-side damage validation"
+  },
+  {
+    "jargon": "hit registration",
+    "layman": "mechanic tracking successful hits"
+  },
+  {
+    "jargon": "friendly fire",
+    "layman": "damaging your own teammates"
+  },
+  {
+    "jargon": "friendly fire",
+    "layman": "team damage enabled"
+  },
+  {
+    "jargon": "friendly fire",
+    "layman": "accidentally harming allies"
+  },
+  {
+    "jargon": "friendly fire",
+    "layman": "weapons affect teammates too"
+  },
+  {
+    "jargon": "friendly fire",
+    "layman": "no protection from ally attacks"
+  },
+  {
+    "jargon": "friendly fire",
+    "layman": "team can hurt each other"
+  },
+  {
+    "jargon": "friendly fire",
+    "layman": "self-team damage mechanic"
+  },
+  {
+    "jargon": "friendly fire",
+    "layman": "ally damage system active"
+  },
+  {
+    "jargon": "friendly fire",
+    "layman": "risk of harming your own side"
+  },
+  {
+    "jargon": "friendly fire",
+    "layman": "friendly units take damage from you"
+  },
+  {
+    "jargon": "respawn timer",
+    "layman": "time before you return after death"
+  },
+  {
+    "jargon": "respawn timer",
+    "layman": "wait until you come back"
+  },
+  {
+    "jargon": "respawn timer",
+    "layman": "delay before revival"
+  },
+  {
+    "jargon": "respawn timer",
+    "layman": "countdown to reentry"
+  },
+  {
+    "jargon": "respawn timer",
+    "layman": "time until you can play again"
+  },
+  {
+    "jargon": "respawn timer",
+    "layman": "how long until respawn"
+  },
+  {
+    "jargon": "respawn timer",
+    "layman": "pause before returning"
+  },
+  {
+    "jargon": "respawn timer",
+    "layman": "delay after dying"
+  },
+  {
+    "jargon": "respawn timer",
+    "layman": "time until character returns"
+  },
+  {
+    "jargon": "respawn timer",
+    "layman": "waiting period after death"
+  },
+  {
+    "jargon": "combo",
+    "layman": "sequence of attacks"
+  },
+  {
+    "jargon": "combo",
+    "layman": "multiple moves chained together"
+  },
+  {
+    "jargon": "combo",
+    "layman": "attack string"
+  },
+  {
+    "jargon": "combo",
+    "layman": "series of skills in order"
+  },
+  {
+    "jargon": "combo",
+    "layman": "continuous hits"
+  },
+  {
+    "jargon": "combo",
+    "layman": "linked attacks"
+  },
+  {
+    "jargon": "combo",
+    "layman": "attack pattern"
+  },
+  {
+    "jargon": "combo",
+    "layman": "combo move chain"
+  },
+  {
+    "jargon": "combo",
+    "layman": "skill rotation"
+  },
+  {
+    "jargon": "combo",
+    "layman": "consecutive offensive actions"
+  },
+  {
+    "jargon": "combo breaker",
+    "layman": "interrupts opponent's combo"
+  },
+  {
+    "jargon": "combo breaker",
+    "layman": "stop enemy attack sequence"
+  },
+  {
+    "jargon": "combo breaker",
+    "layman": "prevents continuous hits"
+  },
+  {
+    "jargon": "combo breaker",
+    "layman": "break enemy chain"
+  },
+  {
+    "jargon": "combo breaker",
+    "layman": "defensive move to stop combos"
+  },
+  {
+    "jargon": "combo breaker",
+    "layman": "interrupt attack string"
+  },
+  {
+    "jargon": "combo breaker",
+    "layman": "cancel opponent\u00e2\u20ac\u2122s momentum"
+  },
+  {
+    "jargon": "combo breaker",
+    "layman": "stop chained attacks"
+  },
+  {
+    "jargon": "combo breaker",
+    "layman": "disrupt enemy attack sequence"
+  },
+  {
+    "jargon": "combo breaker",
+    "layman": "break continuous strike"
+  },
+  {
+    "jargon": "aggro tank",
+    "layman": "player who draws enemy attacks"
+  },
+  {
+    "jargon": "aggro tank",
+    "layman": "focuses on being targeted"
+  },
+  {
+    "jargon": "aggro tank",
+    "layman": "absorbs damage for team"
+  },
+  {
+    "jargon": "aggro tank",
+    "layman": "keeps enemies away from allies"
+  },
+  {
+    "jargon": "aggro tank",
+    "layman": "main damage sponge"
+  },
+  {
+    "jargon": "aggro tank",
+    "layman": "player holding threat"
+  },
+  {
+    "jargon": "aggro tank",
+    "layman": "central target for enemies"
+  },
+  {
+    "jargon": "aggro tank",
+    "layman": "leader of enemy focus"
+  },
+  {
+    "jargon": "aggro tank",
+    "layman": "receives most attacks"
+  },
+  {
+    "jargon": "aggro tank",
+    "layman": "enemy attention manager"
+  },
+  {
+    "jargon": "DOT",
+    "layman": "damage over time effect"
+  },
+  {
+    "jargon": "DOT",
+    "layman": "slowly reduces health"
+  },
+  {
+    "jargon": "DOT",
+    "layman": "poison or burn effect"
+  },
+  {
+    "jargon": "DOT",
+    "layman": "continuous small damage"
+  },
+  {
+    "jargon": "DOT",
+    "layman": "tick damage over time"
+  },
+  {
+    "jargon": "DOT",
+    "layman": "persistent harmful effect"
+  },
+  {
+    "jargon": "DOT",
+    "layman": "gradual health drain"
+  },
+  {
+    "jargon": "DOT",
+    "layman": "lingering damage effect"
+  },
+  {
+    "jargon": "DOT",
+    "layman": "sustained damage mechanic"
+  },
+  {
+    "jargon": "DOT",
+    "layman": "ongoing attack effect"
+  },
+  {
+    "jargon": "HOT",
+    "layman": "heal over time effect"
+  },
+  {
+    "jargon": "HOT",
+    "layman": "gradual health recovery"
+  },
+  {
+    "jargon": "HOT",
+    "layman": "regeneration effect"
+  },
+  {
+    "jargon": "HOT",
+    "layman": "continuous healing"
+  },
+  {
+    "jargon": "HOT",
+    "layman": "health restored slowly"
+  },
+  {
+    "jargon": "HOT",
+    "layman": "tick-based healing"
+  },
+  {
+    "jargon": "HOT",
+    "layman": "long-term recovery"
+  },
+  {
+    "jargon": "HOT",
+    "layman": "sustained healing spell"
+  },
+  {
+    "jargon": "HOT",
+    "layman": "periodic health gain"
+  },
+  {
+    "jargon": "HOT",
+    "layman": "steady regeneration effect"
+  },
+  {
+    "jargon": "nuke",
+    "layman": "very high damage attack"
+  },
+  {
+    "jargon": "nuke",
+    "layman": "big burst damage"
+  },
+  {
+    "jargon": "nuke",
+    "layman": "one-time massive attack"
+  },
+  {
+    "jargon": "nuke",
+    "layman": "ability that wipes enemies fast"
+  },
+  {
+    "jargon": "nuke",
+    "layman": "overpowered damage skill"
+  },
+  {
+    "jargon": "nuke",
+    "layman": "extreme single-hit attack"
+  },
+  {
+    "jargon": "nuke",
+    "layman": "massive offensive spell"
+  },
+  {
+    "jargon": "nuke",
+    "layman": "instant strong damage"
+  },
+  {
+    "jargon": "nuke",
+    "layman": "high impact attack"
+  },
+  {
+    "jargon": "nuke",
+    "layman": "all-out damage skill"
+  },
+  {
+    "jargon": "pulling aggro",
+    "layman": "getting enemies to attack you"
+  },
+  {
+    "jargon": "pulling aggro",
+    "layman": "drawing focus of enemies"
+  },
+  {
+    "jargon": "pulling aggro",
+    "layman": "making mobs chase you"
+  },
+  {
+    "jargon": "pulling aggro",
+    "layman": "being targeted first"
+  },
+  {
+    "jargon": "pulling aggro",
+    "layman": "taking hits instead of teammates"
+  },
+  {
+    "jargon": "pulling aggro",
+    "layman": "holding enemy attention"
+  },
+  {
+    "jargon": "pulling aggro",
+    "layman": "attracting attacks intentionally"
+  },
+  {
+    "jargon": "pulling aggro",
+    "layman": "ensuring others are safe"
+  },
+  {
+    "jargon": "pulling aggro",
+    "layman": "enemy priority on you"
+  },
+  {
+    "jargon": "pulling aggro",
+    "layman": "leading enemy attacks"
+  },
+  {
+    "jargon": "proc",
+    "layman": "trigger a special effect"
+  },
+  {
+    "jargon": "proc",
+    "layman": "activate bonus ability"
+  },
+  {
+    "jargon": "proc",
+    "layman": "chance-based effect occurs"
+  },
+  {
+    "jargon": "proc",
+    "layman": "automatic skill trigger"
+  },
+  {
+    "jargon": "proc",
+    "layman": "random extra effect"
+  },
+  {
+    "jargon": "proc",
+    "layman": "on-hit ability activation"
+  },
+  {
+    "jargon": "proc",
+    "layman": "mechanic triggering automatically"
+  },
+  {
+    "jargon": "proc",
+    "layman": "effect triggered by action"
+  },
+  {
+    "jargon": "proc",
+    "layman": "chance activation of bonus"
+  },
+  {
+    "jargon": "proc",
+    "layman": "conditional skill activation"
+  },
+  {
+    "jargon": "respawn camp",
+    "layman": "stay near spawn to kill repeatedly"
+  },
+  {
+    "jargon": "respawn camp",
+    "layman": "ambush newly spawned players"
+  },
+  {
+    "jargon": "respawn camp",
+    "layman": "attack enemies at their respawn"
+  },
+  {
+    "jargon": "respawn camp",
+    "layman": "block respawn points"
+  },
+  {
+    "jargon": "respawn camp",
+    "layman": "repeat kills at spawn"
+  },
+  {
+    "jargon": "respawn camp",
+    "layman": "waiting to kill respawning players"
+  },
+  {
+    "jargon": "respawn camp",
+    "layman": "trap players as they appear"
+  },
+  {
+    "jargon": "respawn camp",
+    "layman": "control spawn area for kills"
+  },
+  {
+    "jargon": "respawn camp",
+    "layman": "kill immediately after respawn"
+  },
+  {
+    "jargon": "respawn camp",
+    "layman": "attack enemies as they return"
+  },
+  {
+    "jargon": "buff patch",
+    "layman": "update that strengthens something"
+  },
+  {
+    "jargon": "buff patch",
+    "layman": "make characters or items stronger"
+  },
+  {
+    "jargon": "buff patch",
+    "layman": "increase stats or abilities"
+  },
+  {
+    "jargon": "buff patch",
+    "layman": "enhancement update"
+  },
+  {
+    "jargon": "buff patch",
+    "layman": "power boost in new patch"
+  },
+  {
+    "jargon": "buff patch",
+    "layman": "improve balance favorably"
+  },
+  {
+    "jargon": "buff patch",
+    "layman": "upgrade weak elements"
+  },
+  {
+    "jargon": "buff patch",
+    "layman": "raise effectiveness"
+  },
+  {
+    "jargon": "buff patch",
+    "layman": "make features more powerful"
+  },
+  {
+    "jargon": "buff patch",
+    "layman": "strength adjustment update"
+  },
+  {
+    "jargon": "farming",
+    "layman": "collecting resources repeatedly"
+  },
+  {
+    "jargon": "farming",
+    "layman": "gathering items or money"
+  },
+  {
+    "jargon": "farming",
+    "layman": "grinding for materials"
+  },
+  {
+    "jargon": "farming",
+    "layman": "repeatedly killing enemies for drops"
+  },
+  {
+    "jargon": "farming",
+    "layman": "stockpiling in-game resources"
+  },
+  {
+    "jargon": "farming",
+    "layman": "efficiently gaining items"
+  },
+  {
+    "jargon": "farming",
+    "layman": "obtaining loot methodically"
+  },
+  {
+    "jargon": "farming",
+    "layman": "continuous collection"
+  },
+  {
+    "jargon": "farming",
+    "layman": "building inventory over time"
+  },
+  {
+    "jargon": "farming",
+    "layman": "repetitive item gathering"
+  },
+  {
+    "jargon": "poke",
+    "layman": "harass enemies with small attacks"
+  },
+  {
+    "jargon": "poke",
+    "layman": "chip away at health slowly"
+  },
+  {
+    "jargon": "poke",
+    "layman": "damage from a safe distance"
+  },
+  {
+    "jargon": "poke",
+    "layman": "test enemy defenses"
+  },
+  {
+    "jargon": "poke",
+    "layman": "small repeated attacks"
+  },
+  {
+    "jargon": "poke",
+    "layman": "pressure opponents gradually"
+  },
+  {
+    "jargon": "poke",
+    "layman": "safe long-range damage"
+  },
+  {
+    "jargon": "poke",
+    "layman": "annoy or weaken enemy"
+  },
+  {
+    "jargon": "poke",
+    "layman": "strategic small hits"
+  },
+  {
+    "jargon": "poke",
+    "layman": "constant light attacks"
+  },
+  {
+    "jargon": "snowballing",
+    "layman": "winning more as advantage grows"
+  },
+  {
+    "jargon": "snowballing",
+    "layman": "early lead becomes bigger"
+  },
+  {
+    "jargon": "snowballing",
+    "layman": "momentum keeps increasing"
+  },
+  {
+    "jargon": "snowballing",
+    "layman": "team dominance grows"
+  },
+  {
+    "jargon": "snowballing",
+    "layman": "success compounds over time"
+  },
+  {
+    "jargon": "snowballing",
+    "layman": "progressively easier wins"
+  },
+  {
+    "jargon": "snowballing",
+    "layman": "lead gets harder to stop"
+  },
+  {
+    "jargon": "snowballing",
+    "layman": "cumulative advantage"
+  },
+  {
+    "jargon": "snowballing",
+    "layman": "gaining more from success"
+  },
+  {
+    "jargon": "snowballing",
+    "layman": "winning streak effect"
+  },
+  {
+    "jargon": "zoning",
+    "layman": "control an area to restrict enemies"
+  },
+  {
+    "jargon": "zoning",
+    "layman": "keep enemies out of spots"
+  },
+  {
+    "jargon": "zoning",
+    "layman": "area denial strategy"
+  },
+  {
+    "jargon": "zoning",
+    "layman": "prevent opponent movement"
+  },
+  {
+    "jargon": "zoning",
+    "layman": "control space effectively"
+  },
+  {
+    "jargon": "zoning",
+    "layman": "limit enemy options"
+  },
+  {
+    "jargon": "zoning",
+    "layman": "force enemies to retreat"
+  },
+  {
+    "jargon": "zoning",
+    "layman": "position to dominate area"
+  },
+  {
+    "jargon": "zoning",
+    "layman": "territory control tactic"
+  },
+  {
+    "jargon": "zoning",
+    "layman": "blocking strategic spots"
+  },
+  {
+    "jargon": "aggro drop",
+    "layman": "lose enemy attention"
+  },
+  {
+    "jargon": "aggro drop",
+    "layman": "enemy stops targeting you"
+  },
+  {
+    "jargon": "aggro drop",
+    "layman": "threat level decreases"
+  },
+  {
+    "jargon": "aggro drop",
+    "layman": "enemy changes focus"
+  },
+  {
+    "jargon": "aggro drop",
+    "layman": "stop drawing attacks"
+  },
+  {
+    "jargon": "aggro drop",
+    "layman": "lose priority as target"
+  },
+  {
+    "jargon": "aggro drop",
+    "layman": "enemy ignores you temporarily"
+  },
+  {
+    "jargon": "aggro drop",
+    "layman": "threat reset"
+  },
+  {
+    "jargon": "aggro drop",
+    "layman": "safe from enemy attacks"
+  },
+  {
+    "jargon": "aggro drop",
+    "layman": "focus shifts away from you"
+  },
+  {
+    "jargon": "overextend",
+    "layman": "go too far into enemy territory"
+  },
+  {
+    "jargon": "overextend",
+    "layman": "risk being isolated"
+  },
+  {
+    "jargon": "overextend",
+    "layman": "push too far ahead"
+  },
+  {
+    "jargon": "overextend",
+    "layman": "expose yourself to danger"
+  },
+  {
+    "jargon": "overextend",
+    "layman": "move beyond safe area"
+  },
+  {
+    "jargon": "overextend",
+    "layman": "leave team vulnerable"
+  },
+  {
+    "jargon": "overextend",
+    "layman": "over-pursue enemies"
+  },
+  {
+    "jargon": "overextend",
+    "layman": "take unnecessary risks"
+  },
+  {
+    "jargon": "overextend",
+    "layman": "advance beyond limits"
+  },
+  {
+    "jargon": "overextend",
+    "layman": "overreach in gameplay"
+  },
+  {
+    "jargon": "rotations",
+    "layman": "moving between objectives efficiently"
+  },
+  {
+    "jargon": "rotations",
+    "layman": "shift from one task to another"
+  },
+  {
+    "jargon": "rotations",
+    "layman": "team movement strategy"
+  },
+  {
+    "jargon": "rotations",
+    "layman": "switching lanes or areas"
+  },
+  {
+    "jargon": "rotations",
+    "layman": "optimized positioning"
+  },
+  {
+    "jargon": "rotations",
+    "layman": "cycling between fights or objectives"
+  },
+  {
+    "jargon": "rotations",
+    "layman": "moving to gain advantage"
+  },
+  {
+    "jargon": "rotations",
+    "layman": "changing position for efficiency"
+  },
+  {
+    "jargon": "rotations",
+    "layman": "strategic movement plan"
+  },
+  {
+    "jargon": "rotations",
+    "layman": "planned area coverage"
+  },
+  {
+    "jargon": "juke",
+    "layman": "trick enemy with movement"
+  },
+  {
+    "jargon": "juke",
+    "layman": "dodge attacks cleverly"
+  },
+  {
+    "jargon": "juke",
+    "layman": "fake movement to escape"
+  },
+  {
+    "jargon": "juke",
+    "layman": "confuse opponents"
+  },
+  {
+    "jargon": "juke",
+    "layman": "evade skill shots"
+  },
+  {
+    "jargon": "juke",
+    "layman": "use unpredictable movement"
+  },
+  {
+    "jargon": "juke",
+    "layman": "bait attacks while moving"
+  },
+  {
+    "jargon": "juke",
+    "layman": "escape by dodging"
+  },
+  {
+    "jargon": "juke",
+    "layman": "maneuver to avoid damage"
+  },
+  {
+    "jargon": "juke",
+    "layman": "trick enemy aim"
+  }
+]

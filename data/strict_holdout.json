@@ -1,0 +1,442 @@
+[
+  {
+    "jargon": "gank",
+    "layman": "sudden group attack"
+  },
+  {
+    "jargon": "gank",
+    "layman": "ambush by multiple players"
+  },
+  {
+    "jargon": "gank",
+    "layman": "overwhelming surprise attack"
+  },
+  {
+    "jargon": "gank",
+    "layman": "unfair numbers advantage attack"
+  },
+  {
+    "jargon": "gank",
+    "layman": "catching someone off guard"
+  },
+  {
+    "jargon": "gank",
+    "layman": "teaming up to eliminate one player"
+  },
+  {
+    "jargon": "gank",
+    "layman": "unexpected coordinated assault"
+  },
+  {
+    "jargon": "gank",
+    "layman": "rapid ambush maneuver"
+  },
+  {
+    "jargon": "gank",
+    "layman": "attack from hiding with allies"
+  },
+  {
+    "jargon": "gank",
+    "layman": "quick overpowering strike"
+  },
+  {
+    "jargon": "smurf",
+    "layman": "experienced player using new account"
+  },
+  {
+    "jargon": "smurf",
+    "layman": "skilled player in low ranks"
+  },
+  {
+    "jargon": "smurf",
+    "layman": "expert pretending to be beginner"
+  },
+  {
+    "jargon": "smurf",
+    "layman": "alternate low-level account"
+  },
+  {
+    "jargon": "smurf",
+    "layman": "high skill player in easy matches"
+  },
+  {
+    "jargon": "smurf",
+    "layman": "veteran playing in beginner lobby"
+  },
+  {
+    "jargon": "smurf",
+    "layman": "secondary account for easy wins"
+  },
+  {
+    "jargon": "smurf",
+    "layman": "rank-manipulating experienced player"
+  },
+  {
+    "jargon": "smurf",
+    "layman": "skilled player hiding true rank"
+  },
+  {
+    "jargon": "smurf",
+    "layman": "expert competing in lower tier"
+  },
+  {
+    "jargon": "boosting",
+    "layman": "helping someone rank up unfairly"
+  },
+  {
+    "jargon": "boosting",
+    "layman": "raising rank through outside help"
+  },
+  {
+    "jargon": "boosting",
+    "layman": "carrying someone to higher level"
+  },
+  {
+    "jargon": "boosting",
+    "layman": "artificially improving rank"
+  },
+  {
+    "jargon": "boosting",
+    "layman": "paid rank advancement"
+  },
+  {
+    "jargon": "boosting",
+    "layman": "assisted competitive climbing"
+  },
+  {
+    "jargon": "boosting",
+    "layman": "skill-based rank manipulation"
+  },
+  {
+    "jargon": "boosting",
+    "layman": "external help to win matches"
+  },
+  {
+    "jargon": "boosting",
+    "layman": "inflating ranking with support"
+  },
+  {
+    "jargon": "boosting",
+    "layman": "rank increase by stronger player"
+  },
+  {
+    "jargon": "min-max",
+    "layman": "optimize stats for best performance"
+  },
+  {
+    "jargon": "min-max",
+    "layman": "maximize strengths minimize weaknesses"
+  },
+  {
+    "jargon": "min-max",
+    "layman": "fine-tune character build"
+  },
+  {
+    "jargon": "min-max",
+    "layman": "optimize numbers strategically"
+  },
+  {
+    "jargon": "min-max",
+    "layman": "squeeze best efficiency from setup"
+  },
+  {
+    "jargon": "min-max",
+    "layman": "balance stats for peak output"
+  },
+  {
+    "jargon": "min-max",
+    "layman": "carefully optimize abilities"
+  },
+  {
+    "jargon": "min-max",
+    "layman": "maximize performance potential"
+  },
+  {
+    "jargon": "min-max",
+    "layman": "build character mathematically"
+  },
+  {
+    "jargon": "min-max",
+    "layman": "perfect stat allocation"
+  },
+  {
+    "jargon": "permadeath",
+    "layman": "no respawn after death"
+  },
+  {
+    "jargon": "permadeath",
+    "layman": "death is permanent"
+  },
+  {
+    "jargon": "permadeath",
+    "layman": "character lost forever when killed"
+  },
+  {
+    "jargon": "permadeath",
+    "layman": "no second chance after defeat"
+  },
+  {
+    "jargon": "permadeath",
+    "layman": "one-life gameplay mode"
+  },
+  {
+    "jargon": "permadeath",
+    "layman": "save deleted upon death"
+  },
+  {
+    "jargon": "permadeath",
+    "layman": "start over if you die"
+  },
+  {
+    "jargon": "permadeath",
+    "layman": "hardcore no-revive rule"
+  },
+  {
+    "jargon": "permadeath",
+    "layman": "permanent character deletion"
+  },
+  {
+    "jargon": "permadeath",
+    "layman": "irreversible defeat mechanic"
+  },
+  {
+    "jargon": "ADS",
+    "layman": "aim down sights"
+  },
+  {
+    "jargon": "ADS",
+    "layman": "use weapon scope"
+  },
+  {
+    "jargon": "ADS",
+    "layman": "zoom in to aim"
+  },
+  {
+    "jargon": "ADS",
+    "layman": "focus aim through sights"
+  },
+  {
+    "jargon": "ADS",
+    "layman": "precision aiming mode"
+  },
+  {
+    "jargon": "ADS",
+    "layman": "look through weapon scope"
+  },
+  {
+    "jargon": "ADS",
+    "layman": "tighten aim for accuracy"
+  },
+  {
+    "jargon": "ADS",
+    "layman": "switch to scoped view"
+  },
+  {
+    "jargon": "ADS",
+    "layman": "aiming carefully with sights"
+  },
+  {
+    "jargon": "ADS",
+    "layman": "enter accurate shooting stance"
+  },
+  {
+    "jargon": "zerg",
+    "layman": "overwhelm with large numbers"
+  },
+  {
+    "jargon": "zerg",
+    "layman": "swarm attack strategy"
+  },
+  {
+    "jargon": "zerg",
+    "layman": "rush with many units"
+  },
+  {
+    "jargon": "zerg",
+    "layman": "flood opponent with quantity"
+  },
+  {
+    "jargon": "zerg",
+    "layman": "massive group assault"
+  },
+  {
+    "jargon": "zerg",
+    "layman": "attack using sheer numbers"
+  },
+  {
+    "jargon": "zerg",
+    "layman": "crowd-based offensive push"
+  },
+  {
+    "jargon": "zerg",
+    "layman": "overpower through volume"
+  },
+  {
+    "jargon": "zerg",
+    "layman": "large-scale rush tactic"
+  },
+  {
+    "jargon": "zerg",
+    "layman": "win by numerical advantage"
+  },
+  {
+    "jargon": "crit",
+    "layman": "extra powerful hit"
+  },
+  {
+    "jargon": "crit",
+    "layman": "random high-damage strike"
+  },
+  {
+    "jargon": "crit",
+    "layman": "critical damage attack"
+  },
+  {
+    "jargon": "crit",
+    "layman": "bonus damage hit"
+  },
+  {
+    "jargon": "crit",
+    "layman": "lucky strong strike"
+  },
+  {
+    "jargon": "crit",
+    "layman": "enhanced impact attack"
+  },
+  {
+    "jargon": "crit",
+    "layman": "double damage blow"
+  },
+  {
+    "jargon": "crit",
+    "layman": "amplified hit result"
+  },
+  {
+    "jargon": "crit",
+    "layman": "rare heavy strike"
+  },
+  {
+    "jargon": "crit",
+    "layman": "spike damage attack"
+  },
+  {
+    "jargon": "headshot",
+    "layman": "hit to the head for extra damage"
+  },
+  {
+    "jargon": "headshot",
+    "layman": "precise shot to the head"
+  },
+  {
+    "jargon": "headshot",
+    "layman": "instant-kill head hit"
+  },
+  {
+    "jargon": "headshot",
+    "layman": "high damage due to accuracy"
+  },
+  {
+    "jargon": "headshot",
+    "layman": "skilled precision strike"
+  },
+  {
+    "jargon": "headshot",
+    "layman": "critical aim at head"
+  },
+  {
+    "jargon": "headshot",
+    "layman": "accurate upper target hit"
+  },
+  {
+    "jargon": "headshot",
+    "layman": "bonus damage head impact"
+  },
+  {
+    "jargon": "headshot",
+    "layman": "one-shot head strike"
+  },
+  {
+    "jargon": "headshot",
+    "layman": "precision elimination shot"
+  },
+  {
+    "jargon": "glass cannon",
+    "layman": "high damage but low defense"
+  },
+  {
+    "jargon": "glass cannon",
+    "layman": "strong attacker easily defeated"
+  },
+  {
+    "jargon": "glass cannon",
+    "layman": "powerful but fragile build"
+  },
+  {
+    "jargon": "glass cannon",
+    "layman": "max offense minimal defense"
+  },
+  {
+    "jargon": "glass cannon",
+    "layman": "big damage low survivability"
+  },
+  {
+    "jargon": "glass cannon",
+    "layman": "risk-reward character type"
+  },
+  {
+    "jargon": "glass cannon",
+    "layman": "offensive focused fragile unit"
+  },
+  {
+    "jargon": "glass cannon",
+    "layman": "heavy hitter weak armor"
+  },
+  {
+    "jargon": "glass cannon",
+    "layman": "strong but easily broken"
+  },
+  {
+    "jargon": "glass cannon",
+    "layman": "extreme damage low durability"
+  },
+  {
+    "jargon": "peel",
+    "layman": "protect teammates from attacks"
+  },
+  {
+    "jargon": "peel",
+    "layman": "help ally escape danger"
+  },
+  {
+    "jargon": "peel",
+    "layman": "draw enemy attention away"
+  },
+  {
+    "jargon": "peel",
+    "layman": "defensive support action"
+  },
+  {
+    "jargon": "peel",
+    "layman": "shield teammate from harm"
+  },
+  {
+    "jargon": "peel",
+    "layman": "intervene for allies"
+  },
+  {
+    "jargon": "peel",
+    "layman": "prevent damage to teammates"
+  },
+  {
+    "jargon": "peel",
+    "layman": "assist ally under attack"
+  },
+  {
+    "jargon": "peel",
+    "layman": "create space for team"
+  },
+  {
+    "jargon": "peel",
+    "layman": "protect friendly player"
+  }
+]
