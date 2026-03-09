@@ -225,5 +225,5 @@ The UI opens on `http://localhost:5173`. Select which models to compare, type a 
 
 1. Your query is encoded by each selected model
 2. ChromaDB performs cosine similarity search against the data collection for each model
-3. Results are displayed side-by-side with confidence scores (results below 55% confidence are filtered)
+3. Results are displayed side by side in the UI
 4. Confidence badges are color-coded: green (80%+), yellow (65%+), orange (55%+)
