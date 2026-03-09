@@ -1,14 +1,14 @@
 # GamerLink: Domain-Adapted Embeddings
 
-### Fine-tuning `nomic-embed-text-v1.5` to speak fluent gamer
+### Fine-tuning `nomic-embed-text-v1.5` for gaming-specific semantic search
 
 ---
 
 ## The Problem
 
-General-purpose embedding models fail on gaming language. When a player says *"my tank is pulling too much aggro"*, a vanilla model sees unrelated words. A gamer-tuned model understands it's equivalent to *"the defensive player is drawing all enemy attention"*.
+General-purpose embedding models fail on gaming language. When a player says *"my tank is pulling too much aggro"*, a vanilla model sees unrelated words. A gamer-tuned model understands they're saying *"the defensive player is drawing more enemy attention than they can handle"*.
 
-This semantic gap causes RAG pipelines to surface irrelevant results and miss obvious matches across any gaming data source: support tickets, forum posts, wikis, patch notes, in-game chat logs, and more. **nomic-embed-text-v1.5-strats-and-slang** closes that gap by fine-tuning on jargon/layman pairs, the same concept expressed in two registers.
+This semantic gap causes RAG pipelines to surface irrelevant results and miss obvious matches across any gaming data source: support tickets, forum posts, wikis, patch notes, in-game chat logs, and more. **nomic-embed-text-v1.5-strats-and-slang** closes that gap by fine-tuning on jargon/layman pairs — the same idea written once in gaming slang and once in plain English.
 
 ---
 
@@ -81,7 +81,7 @@ Produce a fine-tuned embedding model that dramatically outperforms the base `nom
 
 ### Data Generation
 
-Training pairs consist of `{jargon, layman}` objects, the same gaming concept written two ways:
+Training pairs consist of `{jargon, layman}` objects — the same gaming concept written once in slang and once in plain English:
 
 ```json
 { "jargon": "Our tank is pulling too much aggro", "layman": "The defensive player is drawing all enemy attention" }
@@ -186,7 +186,7 @@ The playground is a local web app for manually comparing the fine-tuned model ag
 
 ### Purpose
 
-The playground exists to **qualitatively validate** what the benchmarks show quantitatively. Numbers say the model is better; the playground lets you see *how* it's better on real data. It's useful for demoing the model, exploring edge cases, and building intuition about where the fine-tuning helps most.
+The playground exists to **qualitatively validate** what the benchmarks show quantitatively. Numbers say the model is better; the playground lets you see *how* it's better on actual data. It's useful for demoing the model, exploring edge cases, and building intuition about where the fine-tuning helps most.
 
 ### Stack
 
