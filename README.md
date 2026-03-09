@@ -1,4 +1,4 @@
-# GamerLink: Domain-Adapted Embeddings
+# Gamer Embed Tuner
 
 ### Fine-tuning `nomic-embed-text-v1.5` for gaming-specific semantic search
 
